@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données et modèles générés par les notebooks (reproductibles)
+data/processed/
+models/*.joblib
+figures/
+
+# IDE / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Streamlit : on garde .streamlit/config.toml (thème), pas le reste
+.streamlit/*
+!.streamlit/config.toml

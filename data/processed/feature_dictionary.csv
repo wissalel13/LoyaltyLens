@@ -1,0 +1,31 @@
+variable,origine,description,dans le modèle
+n_addon_services,créée,Nombre de services optionnels actifs (0-6),True
+n_protection_services,créée,Nombre de services de protection actifs (0-4),True
+tenure_group,créée,"Tranche d'ancienneté (0-6, 7-12, 13-24, 25-48, 49-72 mois)",True
+is_new_customer,créée,Ancienneté ≤ 12 mois,True
+auto_payment,créée,Paiement automatique (virement ou carte),True
+avg_historical_charge,créée,TotalCharges / tenure (intermédiaire),False
+charge_trend,créée,Prix actuel / facture moyenne passée − 1,True
+charge_per_service,créée,MonthlyCharges / (1 + nb de services),True
+mtm_fiber,créée,Contrat mensuel ET fibre optique,True
+mtm_echeck,créée,Contrat mensuel ET chèque électronique,True
+tenure,brute,Colonne du jeu brut (nettoyée),True
+MonthlyCharges,brute,Colonne du jeu brut (nettoyée),True
+Partner,brute,Colonne du jeu brut (nettoyée),True
+Dependents,brute,Colonne du jeu brut (nettoyée),True
+PhoneService,brute,Colonne du jeu brut (nettoyée),True
+MultipleLines,brute,Colonne du jeu brut (nettoyée),True
+OnlineSecurity,brute,Colonne du jeu brut (nettoyée),True
+OnlineBackup,brute,Colonne du jeu brut (nettoyée),True
+DeviceProtection,brute,Colonne du jeu brut (nettoyée),True
+TechSupport,brute,Colonne du jeu brut (nettoyée),True
+StreamingTV,brute,Colonne du jeu brut (nettoyée),True
+StreamingMovies,brute,Colonne du jeu brut (nettoyée),True
+PaperlessBilling,brute,Colonne du jeu brut (nettoyée),True
+Contract,brute,Colonne du jeu brut (nettoyée),True
+InternetService,brute,Colonne du jeu brut (nettoyée),True
+PaymentMethod,brute,Colonne du jeu brut (nettoyée),True
+customerID,brute,"Identifiant unique, aucune valeur prédictive",False
+gender,brute,"Attribut sensible ; aucun lien avec le churn dans l'EDA (V = 0,000)",False
+SeniorCitizen,brute,Attribut sensible (âge) ; conservé à part pour l'audit d'équité,False
+TotalCharges,brute,"Redondant avec tenure × MonthlyCharges (r = 0,83 avec tenure) ; son information utile est portée par charge_trend",False

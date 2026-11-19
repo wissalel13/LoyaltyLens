@@ -1,0 +1,1410 @@
+customerID,churn_probability,risk_tier,expected_net_gain,action_recommended,churn_reel,top_reasons
+5178-LMXOP,0.8729,Élevé,248.84,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+9057-SIHCH,0.87,Élevé,252.54,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+0295-PPHDO,0.8695,Élevé,248.79,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+6023-YEBUP,0.8686,Élevé,265.67,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+1400-MMYXY,0.8598,Élevé,277.81,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+4587-VVTOX,0.8559,Élevé,274.45,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+1143-NMNQJ,0.8339,Élevé,207.27,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1069-XAIEM,0.8335,Élevé,205.2,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8593-WHYHV,0.8326,Élevé,205.68,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4927-WWOOZ,0.8319,Élevé,223.86,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+2545-EBUPK,0.8314,Élevé,201.57,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2034-GDRCN,0.8309,Élevé,220.42,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+4750-ZRXIU,0.8307,Élevé,202.99,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0970-ETWGE,0.8306,Élevé,217.78,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+3722-WPXTK,0.8285,Élevé,213.51,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6630-UJZMY,0.8284,Élevé,198.28,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9611-CTWIH,0.8282,Élevé,216.7,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+8884-ADFVN,0.8258,Élevé,253.08,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+8739-XNIKG,0.8247,Élevé,199.39,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2865-TCHJW,0.8215,Élevé,213.81,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+6861-XWTWQ,0.8208,Élevé,243.28,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+8161-QYMTT,0.817,Élevé,226.77,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+8622-ZLFKO,0.815,Élevé,216.27,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+3519-ZKXGG,0.8065,Élevé,170.21,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2609-IAICY,0.8052,Élevé,173.65,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9248-OJYKK,0.8036,Élevé,171.16,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8258-GSTJK,0.8033,Élevé,172.68,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7817-BOQPW,0.8011,Élevé,167.88,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8443-ZRDBZ,0.8002,Élevé,169.09,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2027-FECZV,0.7996,Élevé,257.12,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+1320-HTRDR,0.7993,Élevé,167.26,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4415-IJZTP,0.7989,Élevé,164.25,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4090-KPJIP,0.7978,Élevé,165.25,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5052-PNLOS,0.7973,Élevé,252.38,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+4229-CZMLL,0.7956,Élevé,164.52,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8083-YTZES,0.795,Élevé,162.78,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9878-TNQGW,0.7893,Élevé,180.01,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4713-LZDRV,0.7872,Élevé,175.57,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2959-MJHIC,0.7867,Élevé,177.56,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7181-BQYBV,0.7856,Élevé,239.75,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+7218-HKQFK,0.7849,Élevé,216.18,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+4806-KEXQR,0.7848,Élevé,175.74,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6230-BSUXY,0.7834,Élevé,189.72,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2514-GINMM,0.7822,Élevé,173.86,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2202-CUYXZ,0.7786,Élevé,187.83,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8752-STIVR,0.7779,Élevé,171.22,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3006-XIMLN,0.7748,Élevé,212.76,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+6979-ZNSFF,0.7725,Élevé,192.08,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7249-WBIYX,0.7722,Élevé,187.95,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4115-NZRKS,0.7677,Élevé,196.38,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+7209-JCUDS,0.7669,Élevé,211.99,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+6857-VWJDT,0.7668,Élevé,214.03,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+7180-PISOG,0.764,Élevé,154.91,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1628-BIZYP,0.764,Élevé,183.78,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6969-MVBAI,0.7611,Élevé,196.88,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+5698-BQJOH,0.7584,Élevé,207.75,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+7005-CCBKV,0.7582,Élevé,180.36,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3338-CVVEH,0.7559,Élevé,207.29,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+1731-TVIUK,0.7537,Élevé,203.71,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+5167-ZFFMM,0.7479,Élevé,194.62,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+5376-DEQCP,0.7479,Élevé,140.09,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3721-CNEYS,0.7476,Élevé,140.96,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3292-PBZEJ,0.7472,Élevé,249.66,Contacter,0,tenure_group | MonthlyCharges | Contract_Month-to-month
+4342-HENTK,0.747,Élevé,140.0,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3244-DCJWY,0.7469,Élevé,138.89,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6328-ZPBGN,0.7465,Élevé,205.7,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+9717-QEBGU,0.7462,Élevé,138.84,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5419-CONWX,0.7459,Élevé,217.98,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+5542-TBBWB,0.7459,Élevé,137.7,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9804-ICWBG,0.7459,Élevé,137.7,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0655-RBDUG,0.7453,Élevé,213.08,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+8375-DKEBR,0.745,Élevé,136.67,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1820-TQVEV,0.7449,Élevé,136.5,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8775-ERLNB,0.7442,Élevé,149.05,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6077-BDPXA,0.7438,Élevé,137.85,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3716-BDVDB,0.7436,Élevé,134.97,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6047-YHPVI,0.7403,Élevé,135.75,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2077-MPJQO,0.7391,Élevé,150.61,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2495-INZWQ,0.7382,Élevé,68.4,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+3750-CKVKH,0.7373,Élevé,129.83,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8361-LTMKD,0.7368,Élevé,147.34,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9334-GWGOW,0.7367,Élevé,148.52,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7235-NXZCP,0.7337,Élevé,147.72,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6856-RAURS,0.7328,Élevé,147.58,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3707-GNWHM,0.7327,Élevé,145.86,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7130-VTEWQ,0.7323,Élevé,149.69,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7354-OIJLX,0.7319,Élevé,149.86,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3199-XGZCY,0.7304,Élevé,147.88,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3030-YDNRM,0.7292,Élevé,146.5,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1980-KXVPM,0.7287,Élevé,146.88,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5159-YFPKQ,0.7269,Élevé,148.35,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4445-ZJNMU,0.7263,Élevé,209.63,Contacter,0,tenure_group | MonthlyCharges | Contract_Month-to-month
+2737-YNGYW,0.7262,Élevé,160.6,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2867-UIMSS,0.7262,Élevé,160.46,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8541-QVFKM,0.7261,Élevé,142.12,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8873-GLDMH,0.7252,Élevé,142.79,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8245-UMPYT,0.7251,Élevé,201.63,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+3320-VEOYC,0.7247,Élevé,199.41,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6372-RFVNS,0.7233,Élevé,155.18,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8266-VBFQL,0.7231,Élevé,185.33,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+7363-QTBIW,0.7206,Élevé,156.88,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0004-TLHLJ,0.7187,Élevé,141.21,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6000-APYLU,0.7158,Élevé,158.21,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5382-SOYZL,0.7151,Élevé,194.82,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7198-GLXTC,0.715,Élevé,153.34,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9507-EXLTT,0.7126,Élevé,153.55,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3908-BLSYF,0.7111,Élevé,164.79,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2985-FMWYF,0.7102,Élevé,189.06,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6376-GAHQE,0.7101,Élevé,149.0,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3422-LYEPQ,0.7087,Élevé,131.15,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0432-CAJZV,0.7065,Élevé,180.67,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+1853-UDXBW,0.7056,Élevé,127.81,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0235-KGSLC,0.7054,Élevé,167.24,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5196-SGOAK,0.7047,Élevé,142.05,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9840-DVNDC,0.7045,Élevé,154.16,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8380-PEFPE,0.7037,Élevé,131.51,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0679-IDSTG,0.7032,Élevé,125.31,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2761-OCIAX,0.7016,Élevé,138.67,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7409-KIUTL,0.7016,Élevé,129.34,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9221-OTIVJ,0.7004,Élevé,214.36,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5339-PXDVH,0.7003,Élevé,178.55,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+6137-NICCO,0.6952,Élevé,185.39,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+0258-NOKBL,0.6948,Élevé,176.1,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+6892-XPFPU,0.6936,Élevé,210.32,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9741-YLNTD,0.693,Élevé,169.4,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5357-TZHPP,0.6921,Élevé,160.29,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4706-AXVKM,0.6909,Élevé,160.92,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2754-SDJRD,0.6892,Élevé,198.48,Contacter,0,tenure_group | MonthlyCharges | Contract_Month-to-month
+8132-YPVBX,0.6882,Élevé,162.94,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2254-DLXRI,0.6859,Élevé,145.44,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0923-PNFUB,0.6853,Élevé,156.62,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2485-ITVKB,0.6847,Élevé,36.52,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+1448-PWKYE,0.6824,Élevé,146.52,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1867-BDVFH,0.6824,Élevé,132.64,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3585-ISXZP,0.682,Élevé,184.86,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+7273-TEFQD,0.6805,Élevé,50.81,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+0841-NULXI,0.68,Élevé,37.03,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+0390-DCFDQ,0.6797,Élevé,122.39,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0685-MLYYM,0.6781,Élevé,122.72,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0330-IVZHA,0.678,Élevé,120.73,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6705-LXORM,0.6774,Élevé,120.84,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5442-BHQNG,0.6759,Élevé,121.19,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8821-XNHVZ,0.6714,Élevé,143.48,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4029-HPFVY,0.6696,Élevé,119.47,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2057-ZBLPD,0.6673,Élevé,157.78,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+4983-CCWMC,0.6668,Élevé,117.08,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1016-DJTSV,0.6644,Élevé,116.71,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2482-CZGBB,0.6632,Élevé,117.12,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+5186-SAMNZ,0.6611,Élevé,115.4,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+3877-JRJIP,0.6608,Élevé,92.37,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+8676-TRMJS,0.66,Élevé,128.19,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9576-ANLXO,0.6593,Élevé,115.07,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8699-ASUFO,0.6591,Élevé,126.52,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4919-IKATY,0.659,Élevé,150.48,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6507-ZJSUR,0.6586,Élevé,164.45,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7928-VJYAB,0.6568,Élevé,164.21,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+6910-HADCM,0.6563,Élevé,130.4,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7571-YXDAD,0.6555,Élevé,126.75,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0388-EOPEX,0.6534,Élevé,125.01,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9940-RHLFB,0.6532,Élevé,127.07,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0871-URUWO,0.6528,Élevé,190.28,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5628-FCGYG,0.6524,Élevé,147.51,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6680-WKXRZ,0.6502,Élevé,124.15,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4873-ILOLJ,0.6495,Élevé,161.24,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7912-SYRQT,0.646,Élevé,124.64,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2325-NBPZG,0.6458,Élevé,123.33,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7029-RPUAV,0.6419,Élevé,182.13,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+1475-VWVDO,0.6413,Élevé,122.93,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1658-TJVOA,0.6403,Élevé,120.82,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6175-IRFIT,0.6379,Élevé,130.84,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0876-WDUUZ,0.6375,Élevé,146.01,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7952-OBOYL,0.6369,Élevé,156.01,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+0506-LVNGN,0.6365,Élevé,123.11,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2041-JIJCI,0.6322,Élevé,95.67,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+8397-MVTAZ,0.6288,Élevé,176.48,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9279-CJEOJ,0.6286,Élevé,165.87,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+4735-ASGMA,0.6261,Élevé,171.66,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6899-PPEEA,0.6226,Élevé,166.4,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+2187-PKZAY,0.6218,Élevé,128.95,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4301-VVZKA,0.6192,Élevé,118.08,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+0581-BXBUB,0.6165,Élevé,111.47,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1077-HUUJM,0.6148,Élevé,107.25,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2919-HBCJO,0.6145,Élevé,119.56,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1024-GUALD,0.6123,Élevé,4.67,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+9685-WKZGT,0.6122,Élevé,115.19,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+2754-XBHTB,0.6117,Élevé,121.01,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+1751-NCDLI,0.6093,Élevé,166.83,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5760-FXFVO,0.609,Élevé,123.1,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9851-KIELU,0.6078,Élevé,190.91,Contacter,1,tenure_group | MonthlyCharges | Contract_Month-to-month
+6319-IEJWJ,0.6061,Élevé,146.81,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1768-ZAIFU,0.6057,Élevé,4.95,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+3932-CMDTD,0.6047,Élevé,179.99,Contacter,1,tenure_group | MonthlyCharges | InternetService_Fiber optic
+7495-OOKFY,0.6026,Élevé,124.95,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7534-BFESC,0.6025,Élevé,115.06,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+3677-IYRBF,0.6024,Élevé,15.93,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+2845-HSJCY,0.6022,Élevé,139.14,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+4686-UXDML,0.6008,Élevé,165.96,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+3858-VOBET,0.6002,Élevé,111.95,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+4817-VYYWS,0.5999,Élevé,166.39,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+3063-QFSZL,0.5991,Élevé,69.48,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+5380-WJKOV,0.5987,Élevé,179.22,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5501-TVMGM,0.5986,Élevé,69.06,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+6543-XRMYR,0.5984,Élevé,164.78,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5228-EXCET,0.5981,Élevé,124.09,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+8709-KRDVL,0.5954,Élevé,164.34,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+8650-RHRKE,0.5952,Élevé,13.53,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+3717-OEAUQ,0.5915,Élevé,100.55,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2439-LYPMQ,0.5911,Élevé,168.32,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+4631-OACRM,0.5909,Élevé,118.9,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+9048-JVYVF,0.5909,Élevé,97.52,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+9054-FOWNV,0.5889,Élevé,138.17,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7861-UVUFT,0.587,Élevé,128.14,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+6338-AVWCY,0.5868,Élevé,34.81,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+0988-JRWWP,0.5846,Élevé,64.08,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+8212-DJRCH,0.5833,Élevé,139.73,Contacter,0,tenure_group | Contract_Month-to-month | MonthlyCharges
+8160-HOWOX,0.5825,Élevé,90.19,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4512-ZUIYL,0.582,Élevé,96.67,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8938-UMKPI,0.5817,Élevé,172.8,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2501-XWWTZ,0.5817,Élevé,97.0,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+6166-ILMNY,0.5806,Élevé,95.79,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0958-YHXGP,0.5804,Élevé,96.04,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+7603-USHJS,0.5796,Élevé,103.89,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9643-AVVWI,0.5775,Élevé,116.32,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8818-DOPVL,0.5772,Élevé,167.03,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+4283-FUTGF,0.5769,Élevé,115.84,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+9692-TUSXH,0.5739,Élevé,148.44,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7410-YTJIK,0.573,Élevé,105.63,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4647-MUZON,0.5727,Élevé,147.83,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1302-UHBDD,0.5712,Élevé,134.95,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1379-FRVEB,0.5708,Élevé,137.01,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6034-YMTOB,0.5702,Élevé,105.3,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0524-IAVZO,0.5681,Élevé,123.84,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+2025-JKFWI,0.5678,Élevé,152.36,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+0376-YMCJC,0.5671,Élevé,134.95,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1894-IGFSG,0.5669,Élevé,132.14,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+2860-RANUS,0.5659,Élevé,124.8,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6712-OAWRH,0.5652,Élevé,135.68,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9866-QEVEE,0.5649,Élevé,124.9,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+7881-EVUAD,0.5629,Élevé,36.33,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+3966-HRMZA,0.5615,Élevé,101.71,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9050-QLROH,0.5608,Élevé,133.13,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1522-VVDMG,0.5597,Élevé,130.85,Contacter,1,tenure_group | Contract_Month-to-month | MonthlyCharges
+3672-YITQD,0.5566,Élevé,118.52,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6331-LWDTQ,0.5565,Élevé,94.55,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+8778-LMWTJ,0.5545,Élevé,99.4,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9747-DDZOS,0.5515,Élevé,95.92,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0023-XUOPT,0.5489,Élevé,135.94,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9167-APMXZ,0.5487,Élevé,116.23,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+0899-LIIBW,0.5485,Élevé,149.15,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+1112-CUNAO,0.5482,Élevé,127.32,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+8445-DNBAE,0.5462,Élevé,48.42,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7278-CKDNC,0.5459,Élevé,108.19,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+3365-SAIGS,0.5453,Élevé,114.0,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+6821-BUXUX,0.545,Élevé,139.61,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+0581-MDMPW,0.5405,Élevé,123.07,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+8903-XEBGX,0.5388,Élevé,57.27,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+0576-WNXXC,0.5376,Élevé,134.93,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+2694-CIUMO,0.5366,Élevé,103.68,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+2665-NPTGL,0.5359,Élevé,139.25,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2800-QQUSO,0.535,Élevé,143.17,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9779-DPNEJ,0.5339,Élevé,104.07,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5144-TVGLP,0.5325,Élevé,131.65,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+5606-AMZBO,0.5318,Élevé,99.62,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+9572-WUKSB,0.5298,Élevé,7.03,Contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+0616-ATFGB,0.5296,Élevé,-2.24,Ne pas contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+9389-ACWBI,0.5279,Élevé,82.93,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8621-MNIHH,0.5242,Élevé,127.87,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1319-YLZJG,0.5235,Élevé,109.43,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+0096-BXERS,0.5234,Élevé,44.88,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+8739-WWKDU,0.5234,Élevé,118.62,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7855-DIWPO,0.5228,Élevé,79.2,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5480-HPRRX,0.5195,Élevé,-2.69,Ne pas contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+9227-LUNBG,0.5194,Élevé,-4.0,Ne pas contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+7587-RZNME,0.5189,Élevé,30.89,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+3587-PMCOY,0.5187,Élevé,134.66,Contacter,0,tenure_group | MonthlyCharges | InternetService_Fiber optic
+1989-PRJHP,0.5177,Élevé,90.72,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+4547-LYTDD,0.5174,Élevé,85.32,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5022-JNQEQ,0.5171,Élevé,91.21,Contacter,0,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8993-PHFWD,0.5162,Élevé,-3.08,Ne pas contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+6608-QQLVK,0.5158,Élevé,43.77,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+1092-GANHU,0.512,Élevé,91.29,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+4360-PNRQB,0.5107,Élevé,89.0,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+8601-QACRS,0.5106,Élevé,43.02,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+7279-BUYWN,0.5095,Élevé,157.62,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+4846-WHAFZ,0.5085,Élevé,90.03,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+0682-USIXD,0.5071,Élevé,107.1,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+9638-JIQYA,0.5064,Élevé,-4.6,Ne pas contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+1335-NTIUC,0.5051,Élevé,-4.63,Ne pas contacter,0,PhoneService_Yes | tenure_group | Contract_Month-to-month
+3334-CTHOL,0.5049,Élevé,40.8,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+6402-EJMWF,0.5049,Élevé,50.52,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3312-UUMZW,0.5046,Élevé,129.55,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2587-EKXTS,0.5001,Élevé,150.75,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+8696-JKZNU,0.4989,Moyen,86.95,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+2988-PLAHS,0.4988,Moyen,75.61,Contacter,0,tenure_group | PaymentMethod_Electronic check | tenure
+1833-TCXKK,0.497,Moyen,142.78,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+4658-HCOHW,0.4963,Moyen,133.68,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2386-LAHRK,0.4958,Moyen,45.5,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+7748-UMTRK,0.4951,Moyen,130.54,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+7056-IMHCC,0.495,Moyen,131.57,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5759-RCVCB,0.4943,Moyen,12.64,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+9842-EFSYY,0.4942,Moyen,51.77,Contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+7404-JLKQG,0.4933,Moyen,52.2,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+7851-FLGGQ,0.4923,Moyen,29.13,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+7129-ACFOG,0.4909,Moyen,45.09,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+2309-OSFEU,0.4891,Moyen,9.69,Contacter,1,PhoneService_Yes | tenure_group | Contract_Month-to-month
+4317-VTEOA,0.4889,Moyen,39.32,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+2203-GHNWN,0.4871,Moyen,89.67,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+4818-QIUFN,0.4849,Moyen,88.16,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+1236-WFCDV,0.4843,Moyen,107.68,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9979-RGMZT,0.4836,Moyen,113.75,Contacter,0,tenure_group | MonthlyCharges | InternetService_Fiber optic
+6377-WHAOX,0.4836,Moyen,134.82,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6661-HBGWL,0.4834,Moyen,132.27,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9752-ZNQUT,0.4818,Moyen,34.29,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+1965-DDBWU,0.4816,Moyen,104.38,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1902-XBTFB,0.4816,Moyen,105.01,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+0778-NELLA,0.4809,Moyen,10.07,Contacter,1,PhoneService_Yes | tenure_group | Contract_Month-to-month
+8849-AYPTR,0.4787,Moyen,107.24,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+0963-ZBDRN,0.4787,Moyen,115.77,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+8785-CJSHH,0.4785,Moyen,121.9,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+3627-FHKBK,0.4777,Moyen,79.5,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+8393-DLHGA,0.4776,Moyen,114.9,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1436-ZMJAN,0.4775,Moyen,66.54,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+9465-RWMXL,0.4766,Moyen,85.36,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+8714-EUHJO,0.4765,Moyen,106.35,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+0082-OQIQY,0.4759,Moyen,111.39,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+2782-LFZVW,0.4756,Moyen,50.94,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4412-YLTKF,0.4727,Moyen,82.81,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+8378-LKJAF,0.4717,Moyen,121.78,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2606-RMDHZ,0.4716,Moyen,1.78,Contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+1035-IPQPU,0.4713,Moyen,125.62,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9927-DSWDF,0.4708,Moyen,127.28,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+7460-ITWWP,0.4696,Moyen,95.56,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+0952-KMEEH,0.4683,Moyen,115.45,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6284-AHOOQ,0.4682,Moyen,102.55,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6048-QBXKL,0.467,Moyen,45.07,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+9283-LZQOH,0.4635,Moyen,74.14,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5373-SFODM,0.4627,Moyen,91.99,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6651-AZVTJ,0.462,Moyen,116.0,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+7181-OQCUT,0.4609,Moyen,122.3,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5016-IBERQ,0.4594,Moyen,89.33,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+9944-AEXBM,0.4582,Moyen,91.29,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+0749-IRGQE,0.4571,Moyen,24.54,Contacter,0,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+1452-KIOVK,0.4568,Moyen,96.53,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+3524-WQDSG,0.4564,Moyen,113.14,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9450-TRJUU,0.4543,Moyen,85.99,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5226-NOZFC,0.452,Moyen,89.53,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+2955-BJZHG,0.4513,Moyen,81.36,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5281-BUZGT,0.4512,Moyen,97.58,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9576-SYUHJ,0.451,Moyen,98.0,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+5650-YLIBA,0.4501,Moyen,81.48,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+3891-PUQOD,0.4492,Moyen,45.73,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+4581-LNWUM,0.4489,Moyen,29.42,Contacter,0,PhoneService_Yes | Contract_Month-to-month | tenure_group
+2227-JRSJX,0.448,Moyen,109.92,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9420-LOJKX,0.4476,Moyen,109.69,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6557-BZXLQ,0.4471,Moyen,62.11,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6481-ESCNL,0.4454,Moyen,111.22,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2720-FVBQP,0.4449,Moyen,28.4,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3780-YVMFA,0.4446,Moyen,59.72,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+4678-DVQEO,0.4441,Moyen,33.46,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+4706-DGAHW,0.4441,Moyen,22.26,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+8080-DDEMJ,0.4437,Moyen,22.04,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+0322-CHQRU,0.4431,Moyen,22.34,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+7470-MCQTK,0.441,Moyen,27.4,Contacter,1,PhoneService_Yes | Contract_Month-to-month | tenure_group
+4237-RLAQD,0.4405,Moyen,22.7,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+0256-LTHVJ,0.4403,Moyen,78.48,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5133-POWUA,0.4403,Moyen,22.59,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+1942-OQFRW,0.4396,Moyen,19.63,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+5692-FPTAH,0.4388,Moyen,21.72,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+8059-UDZFY,0.4386,Moyen,116.35,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9508-ILZDG,0.438,Moyen,101.93,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+0599-XNYDO,0.4374,Moyen,59.9,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+4947-DSMXK,0.4369,Moyen,103.67,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1536-HBSWP,0.4366,Moyen,28.43,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+6542-LWGXJ,0.4357,Moyen,-10.79,Ne pas contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+8914-RBTSB,0.4355,Moyen,97.08,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6704-UTUKK,0.4354,Moyen,21.95,Contacter,0,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+7663-RGWBC,0.4341,Moyen,19.0,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+2178-PMGCJ,0.4334,Moyen,58.75,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+9512-UIBFX,0.4328,Moyen,98.26,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6158-HDPXZ,0.431,Moyen,-10.67,Ne pas contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+9907-SWKKF,0.4298,Moyen,-11.24,Ne pas contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+3094-JOJAI,0.4292,Moyen,64.56,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5461-QKNTN,0.4278,Moyen,95.24,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7018-WBJNK,0.4276,Moyen,70.52,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+2971-SGAFL,0.4276,Moyen,71.23,Contacter,0,Contract_Month-to-month | tenure_group | PaymentMethod_Electronic check
+2277-DJJDL,0.4269,Moyen,102.13,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+4570-QHXHL,0.4254,Moyen,17.0,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4829-AUOAX,0.4252,Moyen,97.02,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+8280-MQRQN,0.4245,Moyen,27.1,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+2911-WDXMV,0.424,Moyen,72.94,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+4760-THGOT,0.4231,Moyen,93.32,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6543-CPZMK,0.4231,Moyen,-4.38,Ne pas contacter,1,PhoneService_Yes | tenure_group | Contract_Month-to-month
+1100-DDVRV,0.4201,Moyen,25.32,Contacter,0,PhoneService_Yes | Contract_Month-to-month | tenure_group
+2277-VWCNI,0.4194,Moyen,23.6,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+6825-UYPFK,0.4187,Moyen,63.96,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5828-AVIPD,0.4186,Moyen,102.14,Contacter,1,MonthlyCharges | InternetService_Fiber optic | tenure_group
+3331-HQDTW,0.4176,Moyen,115.09,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6710-HSJRD,0.4167,Moyen,121.17,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+0310-MVLET,0.4162,Moyen,98.55,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5331-RGMTT,0.4148,Moyen,97.89,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6080-TCMYC,0.4147,Moyen,71.21,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+3540-RZJYU,0.4113,Moyen,77.63,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+4905-JEFDW,0.4112,Moyen,11.58,Contacter,1,PhoneService_Yes | tenure_group | PaymentMethod_Electronic check
+6845-RGTYS,0.4111,Moyen,96.14,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5889-JTMUL,0.4107,Moyen,90.55,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9710-ZUSHQ,0.409,Moyen,107.18,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+7277-OZCGZ,0.4086,Moyen,80.98,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7529-ZDFXI,0.4075,Moyen,81.81,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+3312-ZWLGF,0.4064,Moyen,66.02,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+8058-DMYRU,0.4044,Moyen,81.11,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9278-VZKCD,0.4033,Moyen,108.39,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5129-JLPIS,0.4023,Moyen,102.8,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+1471-GIQKQ,0.4019,Moyen,22.27,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+9286-DOJGF,0.4018,Moyen,58.4,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+1346-UFHAX,0.4008,Moyen,65.44,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+8158-WPEZG,0.4001,Moyen,1.35,Contacter,0,PhoneService_Yes | tenure_group | Contract_Month-to-month
+6173-GOLSU,0.4001,Moyen,86.34,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6729-GDNGC,0.3981,Moyen,65.66,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+3569-EDBPQ,0.3975,Moyen,70.7,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+3658-KIBGF,0.3972,Moyen,28.49,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+4248-QPAVC,0.3965,Moyen,71.82,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+2452-KDRRH,0.3961,Moyen,94.59,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2604-IJPDU,0.3954,Moyen,87.44,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+5651-YLPRD,0.3953,Moyen,72.53,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+9992-UJOEL,0.395,Moyen,21.53,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+4226-KKDON,0.3945,Moyen,44.67,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+4840-ORQXB,0.3925,Moyen,98.0,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6128-AQBMT,0.3922,Moyen,26.16,Contacter,0,PhoneService_Yes | Contract_Month-to-month | PaymentMethod_Electronic check
+6304-IJFSQ,0.3918,Moyen,20.38,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+4154-AQUGT,0.3913,Moyen,75.45,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+5609-IMCGG,0.3904,Moyen,68.56,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+2960-NKRSO,0.3903,Moyen,70.77,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+7503-QQRVF,0.3898,Moyen,54.26,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+6317-YPKDH,0.3894,Moyen,-8.02,Ne pas contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+3374-LXDEV,0.3884,Moyen,75.01,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+2480-SQIOB,0.3884,Moyen,12.64,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+0531-ZZJWQ,0.3874,Moyen,53.2,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6711-VTNRE,0.3862,Moyen,71.71,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+3237-AJGEH,0.3842,Moyen,-7.12,Ne pas contacter,1,tenure_group | PhoneService_Yes | Contract_Month-to-month
+3197-ARFOY,0.379,Moyen,93.25,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+2070-FNEXE,0.3779,Moyen,54.01,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4619-EVPHY,0.3773,Moyen,73.61,Contacter,0,MonthlyCharges | InternetService_Fiber optic | n_protection_services
+2101-RANCD,0.3764,Moyen,49.06,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6834-NXDCA,0.374,Moyen,-17.82,Ne pas contacter,1,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+1310-QRITU,0.3721,Moyen,17.38,Contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+0430-IHCDJ,0.3715,Moyen,15.53,Contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+6022-UGGSO,0.3701,Moyen,49.14,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+5351-QESIO,0.3696,Moyen,-17.8,Ne pas contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+4329-YPDDQ,0.3674,Moyen,93.11,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+3018-TFTSU,0.3659,Moyen,57.61,Contacter,1,tenure_group | Contract_Month-to-month | InternetService_Fiber optic
+4724-WXVWF,0.3641,Moyen,75.06,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+2432-TFSMK,0.3604,Moyen,66.26,Contacter,0,MonthlyCharges | InternetService_Fiber optic | tenure_group
+9812-GHVRI,0.36,Moyen,58.67,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+7054-LGEQW,0.3589,Moyen,9.37,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+0410-IPFTY,0.358,Moyen,58.07,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+9381-NDKME,0.3572,Moyen,2.27,Contacter,1,PhoneService_Yes | Contract_Month-to-month | tenure_group
+9369-XFEHK,0.3568,Moyen,53.52,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+2386-OWURY,0.3557,Moyen,72.04,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7055-HNEOJ,0.355,Moyen,21.31,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+2672-OJQZP,0.3547,Moyen,7.14,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7669-LCRSD,0.3541,Moyen,21.76,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+5934-TSSAU,0.3539,Moyen,45.94,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+4208-UFFGW,0.3536,Moyen,7.22,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+7504-UWHNB,0.3517,Moyen,38.32,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+5301-GAUUY,0.3496,Moyen,51.13,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+1816-FLZDK,0.3489,Moyen,-13.39,Ne pas contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+6257-RJOHI,0.3482,Moyen,13.68,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+9822-WMWVG,0.3482,Moyen,83.48,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+9732-KPKBW,0.3479,Moyen,17.56,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+9700-ISPUP,0.3468,Moyen,31.78,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+1895-QTKDO,0.346,Moyen,4.74,Contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+1261-FWTTE,0.3449,Moyen,-6.97,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+0365-GXEZS,0.3449,Moyen,47.08,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | tenure_group
+1587-FKLZB,0.3447,Moyen,73.46,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+0265-PSUAE,0.3447,Moyen,74.96,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+1541-ETJZO,0.3434,Moyen,26.72,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+4660-IRIBM,0.3431,Moyen,58.57,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+0013-MHZWF,0.343,Moyen,35.7,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+9112-WSNPU,0.3417,Moyen,36.78,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+4223-WOZCM,0.3416,Moyen,11.42,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+0979-PHULV,0.3406,Moyen,71.94,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5575-TPIZQ,0.3399,Moyen,59.08,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+0730-KOAVE,0.3396,Moyen,65.28,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9819-FBNSV,0.339,Moyen,38.17,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+9089-UOWJG,0.3385,Moyen,21.11,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+1465-LNTLJ,0.3381,Moyen,28.37,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+0363-QJVFX,0.3371,Moyen,81.25,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6429-SHBCB,0.337,Moyen,34.44,Contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+5600-PDUJF,0.3364,Moyen,9.94,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+0422-UXFAP,0.334,Moyen,68.87,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+3466-RITXD,0.3338,Moyen,61.03,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+8757-TFHHJ,0.333,Moyen,9.7,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+4067-HLYQI,0.3307,Moyen,33.82,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+3923-CSIHK,0.3299,Moyen,34.38,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+0015-UOCOJ,0.3299,Moyen,7.25,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+1205-WNWPJ,0.3298,Moyen,20.64,Contacter,1,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+9079-YEXQJ,0.3295,Moyen,81.8,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5804-HYIEZ,0.3283,Moyen,75.33,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5213-TWWJU,0.3281,Moyen,57.5,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+3173-NVMPX,0.3274,Moyen,15.17,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+2139-FQHLM,0.3271,Moyen,55.91,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+0486-HECZI,0.3263,Moyen,63.63,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+3787-TRIAL,0.3254,Moyen,-19.48,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+9767-FFLEM,0.3233,Moyen,30.89,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+7579-OOPEC,0.3199,Moyen,7.75,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+1370-GGAWX,0.3191,Moyen,58.16,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7750-EYXWZ,0.3176,Moyen,19.34,Contacter,0,PhoneService_Yes | tenure_group | PaymentMethod_Electronic check
+4396-KLSEH,0.3172,Moyen,-27.33,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4983-CLMLV,0.317,Moyen,67.2,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+1575-KRZZE,0.3159,Moyen,12.77,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+3207-OYBWH,0.3154,Moyen,58.14,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6234-PFPXL,0.3149,Moyen,58.71,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+8805-JNRAZ,0.3148,Moyen,5.75,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+8728-SKJLR,0.3141,Moyen,33.97,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+2692-PFYTJ,0.3134,Moyen,-20.95,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4993-JCRGJ,0.3125,Moyen,44.83,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+2478-EEWWM,0.31,Moyen,-0.55,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+1357-BIJKI,0.3095,Moyen,59.47,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+8988-ECPJR,0.3078,Moyen,38.19,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | PaperlessBilling_Yes
+4672-FOTSD,0.3076,Moyen,24.48,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+2108-YKQTY,0.3076,Moyen,6.14,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+5419-KLXBN,0.3069,Moyen,48.49,Contacter,1,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+5103-MHMHY,0.3061,Moyen,0.63,Contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+4690-LLKUA,0.3037,Moyen,-0.75,Ne pas contacter,1,Contract_Month-to-month | n_protection_services | tenure_group
+0327-WFZSY,0.3022,Moyen,58.8,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+1956-YIFGE,0.3015,Moyen,58.58,Contacter,0,MonthlyCharges | InternetService_Fiber optic | tenure_group
+1809-DMJHQ,0.3012,Moyen,-0.13,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+2190-BCXEC,0.3012,Moyen,35.49,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaperlessBilling_Yes
+4323-SADQS,0.3008,Moyen,-12.64,Ne pas contacter,1,PhoneService_Yes | tenure_group | Contract_Month-to-month
+7067-KSAZT,0.3005,Moyen,64.95,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+6946-LMSQS,0.2997,Moyen,46.06,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7250-EQKIY,0.2992,Moyen,4.34,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+6227-HWPWX,0.2981,Moyen,24.04,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+6646-QVXLR,0.2976,Moyen,61.14,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7623-TRNQN,0.2973,Moyen,3.4,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+9661-MHUMO,0.2971,Moyen,2.68,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+4256-ZWTZI,0.2966,Moyen,4.45,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+5949-EBSQK,0.2964,Moyen,15.56,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+1169-WCVAK,0.2961,Moyen,44.64,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6769-DYBQN,0.2948,Moyen,40.2,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+5207-PLSTK,0.2918,Moyen,1.22,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+2669-QVCRG,0.29,Moyen,34.86,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+8450-JOVAH,0.2897,Moyen,9.14,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+7876-BEUTG,0.2896,Moyen,0.88,Contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+0823-HSCDJ,0.2894,Moyen,1.2,Contacter,1,PhoneService_Yes | Contract_Month-to-month | PaymentMethod_Electronic check
+2770-NSVDG,0.2893,Moyen,-19.7,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | tenure_group
+6854-EXGSF,0.289,Moyen,18.14,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+2391-SOORI,0.2889,Moyen,1.32,Contacter,1,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+7733-UDMTP,0.2885,Moyen,7.13,Contacter,0,PhoneService_Yes | Contract_Month-to-month | PaymentMethod_Electronic check
+4526-ZJJTM,0.2885,Moyen,41.82,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+2257-BOVXD,0.2849,Moyen,18.32,Contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+7398-LXGYX,0.2843,Moyen,36.8,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+6770-XUAGN,0.2837,Moyen,-28.55,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+1550-LOAHA,0.2827,Moyen,35.64,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+1559-DTODC,0.2825,Moyen,-24.42,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+5630-AHZIL,0.2818,Moyen,15.43,Contacter,0,tenure_group | Contract_Month-to-month | tenure
+4468-YDOVK,0.2816,Moyen,-0.67,Ne pas contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+3594-KADLU,0.2811,Moyen,-14.48,Ne pas contacter,0,tenure_group | PhoneService_Yes | Contract_Month-to-month
+0742-MOABM,0.2789,Moyen,0.26,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+8623-ULFNQ,0.2759,Moyen,15.6,Contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | PaperlessBilling_Yes
+4937-QPZPO,0.2749,Moyen,48.88,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+3466-WAESX,0.2747,Moyen,18.33,Contacter,0,Contract_Month-to-month | tenure_group | PaymentMethod_Electronic check
+3982-XWFZQ,0.2738,Moyen,-0.47,Ne pas contacter,1,Contract_Month-to-month | n_protection_services | PaymentMethod_Electronic check
+8840-DQLGN,0.2726,Moyen,48.62,Contacter,1,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+7854-EKTJL,0.2707,Moyen,-30.9,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+3069-SSVSN,0.2705,Moyen,-24.83,Ne pas contacter,0,tenure_group | PhoneService_Yes | n_protection_services
+8455-HIRAQ,0.2702,Moyen,-6.75,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+9327-QSDED,0.267,Moyen,-8.15,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3604-WLABM,0.2666,Moyen,2.06,Contacter,0,tenure_group | Contract_Month-to-month | PaymentMethod_Electronic check
+5438-QMDDL,0.2657,Moyen,7.2,Contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+5136-GFPMB,0.265,Moyen,35.3,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9544-PYPSJ,0.2648,Moyen,41.61,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+3567-PQTSO,0.2634,Moyen,49.79,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+8033-VCZGH,0.2625,Moyen,48.22,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+2522-AHJXR,0.2623,Moyen,53.35,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+5402-HTOTQ,0.2622,Moyen,2.19,Contacter,0,Contract_Month-to-month | tenure_group | PaymentMethod_Electronic check
+0058-EVZWM,0.2621,Moyen,34.72,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7251-XFOIL,0.2621,Moyen,34.15,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+7251-LJBQN,0.262,Moyen,47.87,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+1174-FGIFN,0.261,Moyen,34.98,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+8190-ZTQFB,0.2608,Moyen,-1.79,Ne pas contacter,0,PhoneService_Yes | PaymentMethod_Electronic check | PaperlessBilling_Yes
+2279-AXJJK,0.2607,Moyen,39.79,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6874-SGLHU,0.2598,Moyen,40.73,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+5949-HGVJL,0.2597,Moyen,18.28,Contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | PaperlessBilling_Yes
+1848-LBZHY,0.2594,Moyen,-3.03,Ne pas contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+2924-KHUVI,0.2587,Moyen,43.66,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5186-EJEGL,0.2577,Moyen,14.48,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+4640-UHDOS,0.2572,Moyen,1.8,Contacter,1,Contract_Month-to-month | n_protection_services | tenure_group
+6713-OKOMC,0.2566,Moyen,-22.52,Ne pas contacter,0,PhoneService_Yes | tenure_group | Contract_Month-to-month
+7629-WIXZF,0.2561,Moyen,4.49,Contacter,0,tenure_group | PaymentMethod_Electronic check | PaperlessBilling_Yes
+8985-OOPOS,0.2558,Moyen,18.23,Contacter,0,tenure_group | tenure | Contract_Two year
+8620-RJPZN,0.2556,Moyen,-30.95,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7893-IXHRQ,0.2552,Moyen,-31.12,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+6284-KMNUF,0.2526,Moyen,39.13,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+0701-TJSEF,0.2523,Moyen,11.98,Contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+0959-WHOKV,0.2522,Moyen,39.9,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+6184-DYUOB,0.2517,Moyen,-32.24,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+0471-ARVMX,0.2514,Moyen,44.91,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+6815-ABQFQ,0.2511,Moyen,46.94,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5482-NUPNA,0.2509,Moyen,4.55,Contacter,1,tenure_group | Contract_Month-to-month | tenure
+4693-VWVBO,0.2505,Moyen,-32.37,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+8992-CEUEN,0.2503,Moyen,-33.02,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3756-VNWDH,0.25,Faible,40.66,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+1217-VASWC,0.2497,Faible,40.4,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+3594-IVHJZ,0.2495,Faible,-31.63,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+1240-KNSEZ,0.2493,Faible,-31.96,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+2369-FEVNO,0.2487,Faible,-32.18,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+1622-HSHSF,0.2477,Faible,-32.57,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4667-OHGKG,0.247,Faible,-32.84,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+7054-ENNGU,0.2469,Faible,-4.8,Ne pas contacter,0,tenure_group | Contract_Month-to-month | Contract_Two year
+2293-IJWPS,0.2465,Faible,39.4,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6664-FPDAC,0.2459,Faible,49.08,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+1087-UDSIH,0.2459,Faible,-32.65,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+5136-RGMZO,0.2448,Faible,12.62,Contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | PaperlessBilling_Yes
+0463-WZZKO,0.2447,Faible,-31.72,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7853-WNZSY,0.2434,Faible,-32.69,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2955-PSXOE,0.2429,Faible,-32.33,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+1493-AMTIE,0.2429,Faible,-32.33,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+8713-IGZSO,0.2427,Faible,-28.29,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+6270-OMFIW,0.2427,Faible,32.47,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+0719-SYFRB,0.2426,Faible,3.84,Contacter,1,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+4695-VADHF,0.2414,Faible,-0.07,Ne pas contacter,1,Contract_Month-to-month | tenure_group | PaymentMethod_Electronic check
+0431-APWVY,0.2409,Faible,28.13,Contacter,1,MonthlyCharges | InternetService_Fiber optic | n_protection_services
+3694-GLTJM,0.2385,Faible,-33.13,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+6898-MDLZW,0.2373,Faible,-4.09,Ne pas contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+7426-WEIJX,0.2371,Faible,19.1,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+9033-EOXWV,0.2362,Faible,12.96,Contacter,1,tenure_group | Contract_Two year | InternetService_No
+0913-XWSCN,0.2321,Faible,21.44,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+9481-SFCQY,0.2309,Faible,-0.28,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+3325-FUYCG,0.227,Faible,36.71,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9537-VHDTA,0.2261,Faible,-8.33,Ne pas contacter,0,tenure_group | Contract_Month-to-month | tenure
+4819-HJPIW,0.2261,Faible,-29.53,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | n_protection_services
+1110-KYLGQ,0.2256,Faible,37.91,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+7410-KTVFV,0.2255,Faible,-9.78,Ne pas contacter,1,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+1074-AMIOH,0.2254,Faible,37.84,Contacter,0,MonthlyCharges | Contract_Month-to-month | InternetService_Fiber optic
+6559-RAKOZ,0.225,Faible,29.34,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+0668-OGMHD,0.2239,Faible,-27.02,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | tenure_group
+2828-SLQPF,0.2237,Faible,-13.76,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+6473-ULUHT,0.2231,Faible,18.19,Contacter,0,Contract_Month-to-month | MonthlyCharges | tenure_group
+7124-UGSUR,0.2202,Faible,32.75,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6483-OATDN,0.2191,Faible,-9.53,Ne pas contacter,0,tenure_group | Contract_Month-to-month | PaperlessBilling_Yes
+2480-EJWYP,0.217,Faible,26.42,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+4003-FUSHP,0.217,Faible,-1.91,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+9103-TCIHJ,0.216,Faible,-6.69,Ne pas contacter,1,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+2195-VVRJF,0.2155,Faible,-4.16,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+3679-XASPY,0.2155,Faible,-34.91,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4753-PADAS,0.2152,Faible,31.89,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9374-YOLBJ,0.215,Faible,-35.1,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2750-BJLSB,0.215,Faible,30.25,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+3780-DDGSE,0.2141,Faible,8.62,Contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | PaperlessBilling_Yes
+1360-JYXKQ,0.214,Faible,26.34,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+2778-OCLGR,0.2123,Faible,-20.12,Ne pas contacter,1,PhoneService_Yes | Contract_Month-to-month | tenure_group
+9629-NHXFW,0.2112,Faible,-35.25,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3313-QKNKB,0.2092,Faible,14.43,Contacter,1,InternetService_Fiber optic | n_protection_services | MonthlyCharges
+7266-GSSJX,0.2077,Faible,-34.71,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+9163-GHAYE,0.2065,Faible,-13.69,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaymentMethod_Electronic check
+7957-RYHQD,0.2064,Faible,8.84,Contacter,1,Contract_Month-to-month | InternetService_Fiber optic | PaperlessBilling_Yes
+3339-EAQNV,0.2048,Faible,21.71,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+7395-XWZOY,0.2037,Faible,-9.67,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | tenure_group
+6890-PFRQX,0.2035,Faible,0.92,Contacter,0,Contract_Month-to-month | tenure_group | Contract_Two year
+1470-PSXNM,0.2034,Faible,18.56,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+0365-TRTPY,0.2034,Faible,16.76,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+2087-QAREY,0.2023,Faible,-10.16,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+3858-XHYJO,0.2019,Faible,26.86,Contacter,0,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+0733-VUNUW,0.2015,Faible,-9.64,Ne pas contacter,1,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+4184-VODJZ,0.2012,Faible,16.18,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+2446-ZKVAF,0.2006,Faible,-8.99,Ne pas contacter,0,Contract_Month-to-month | tenure_group | Contract_Two year
+0870-VEMYL,0.1995,Faible,-11.32,Ne pas contacter,1,tenure_group | Contract_Month-to-month | tenure
+0440-QEXBZ,0.199,Faible,-14.06,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaperlessBilling_Yes
+8970-ANWXO,0.1982,Faible,2.61,Contacter,0,tenure_group | PaperlessBilling_Yes | Contract_Two year
+2995-UPRYS,0.1979,Faible,20.69,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+7919-ZODZZ,0.1972,Faible,-3.22,Ne pas contacter,0,tenure_group | PaperlessBilling_Yes | Contract_Two year
+9254-RBFON,0.1971,Faible,19.96,Contacter,1,MonthlyCharges | InternetService_Fiber optic | tenure_group
+0895-LMRSF,0.1966,Faible,-4.06,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+4945-RVMTE,0.1965,Faible,-7.87,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+2843-CQMEG,0.1963,Faible,-14.87,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+3179-GBRWV,0.1959,Faible,-4.2,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+8495-PRWFH,0.1954,Faible,-10.86,Ne pas contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | Contract_Two year
+5469-CTCWN,0.1948,Faible,24.33,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+4237-CLSMM,0.1946,Faible,-35.99,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+0447-BEMNG,0.1929,Faible,-18.54,Ne pas contacter,1,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+4013-GUXND,0.1924,Faible,-35.59,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3976-NLDEZ,0.192,Faible,-35.76,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+0816-TSPHQ,0.1918,Faible,-35.67,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2668-TZSPS,0.1916,Faible,-35.89,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+1963-VAUKV,0.1915,Faible,-35.94,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+2659-VXMWZ,0.1915,Faible,26.72,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5198-EFNBM,0.1915,Faible,12.5,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9122-UMROB,0.1912,Faible,-36.02,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4211-MMAZN,0.1911,Faible,-36.07,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+2839-RFSQE,0.1908,Faible,-35.82,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+8749-CLJXC,0.1907,Faible,-36.24,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2308-STERM,0.1905,Faible,-36.69,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+6286-SUUWT,0.1904,Faible,-36.32,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+6654-QGBZZ,0.1903,Faible,-36.37,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7017-VFULY,0.1901,Faible,-36.24,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4892-VLANZ,0.1901,Faible,-36.45,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+9701-CDXHR,0.19,Faible,-2.7,Ne pas contacter,0,Contract_Month-to-month | InternetService_Fiber optic | n_protection_services
+7239-HZZCX,0.19,Faible,-36.49,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+3930-ZGWVE,0.19,Faible,-36.49,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+9844-FELAJ,0.1895,Faible,23.61,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5766-ZJYBB,0.1891,Faible,-36.79,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+6776-TLWOI,0.189,Faible,-36.5,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+1855-CFULU,0.1888,Faible,-36.37,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+0178-CIIKR,0.1885,Faible,-36.46,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4524-QCSSM,0.1884,Faible,-19.72,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+1015-OWJKI,0.1883,Faible,-37.08,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2700-LUEVA,0.1883,Faible,-35.94,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+4701-AHWMW,0.1878,Faible,-13.12,Ne pas contacter,1,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+9820-RMCQV,0.1877,Faible,-17.19,Ne pas contacter,1,tenure_group | Contract_Month-to-month | Contract_Two year
+6777-TGHTM,0.1874,Faible,22.16,Contacter,1,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+3090-QFUVD,0.1872,Faible,-36.32,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2252-JHJGE,0.1868,Faible,19.94,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5850-BDWCY,0.1868,Faible,-36.41,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3413-CSSTH,0.1867,Faible,-12.56,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+4160-AMJTL,0.1862,Faible,-36.83,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+8053-WWDRO,0.1861,Faible,-36.94,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+1051-GEJLJ,0.186,Faible,-36.95,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+8930-XOTDP,0.1855,Faible,-12.63,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+6366-XIVKZ,0.1853,Faible,-7.87,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+1707-HABPF,0.1851,Faible,10.84,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9986-BONCE,0.1849,Faible,-36.06,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+4541-RMRLG,0.1846,Faible,-37.21,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+1194-SPVSP,0.1843,Faible,-36.96,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3847-BAERP,0.1843,Faible,-36.13,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+9788-YTFGE,0.1841,Faible,-36.78,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+8671-KKKOS,0.1833,Faible,-19.94,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaymentMethod_Electronic check
+2159-TURXX,0.183,Faible,-36.79,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3675-EQOZA,0.1826,Faible,-36.43,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7356-AYNJP,0.1825,Faible,-34.29,Ne pas contacter,0,tenure_group | n_protection_services | PaymentMethod_Electronic check
+1784-BXEFA,0.182,Faible,-36.53,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2294-DMMUS,0.182,Faible,-3.84,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaperlessBilling_Yes
+1386-ZIKUV,0.1814,Faible,-37.63,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+5951-AOFIH,0.1812,Faible,-6.69,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+4377-VDHYI,0.1807,Faible,9.06,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9565-JSNFM,0.1804,Faible,-4.26,Ne pas contacter,1,InternetService_Fiber optic | n_protection_services | charge_per_service
+9025-ZRPVR,0.1803,Faible,-37.7,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+0048-LUMLS,0.1794,Faible,8.91,Contacter,0,MonthlyCharges | InternetService_Fiber optic | n_protection_services
+3865-ZYKAD,0.1787,Faible,4.63,Contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+1385-TQOZW,0.1779,Faible,-36.91,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2091-MJTFX,0.1772,Faible,-17.35,Ne pas contacter,1,PhoneService_Yes | Contract_Month-to-month | Contract_Two year
+2758-RNWXS,0.1761,Faible,6.54,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7134-MJPDY,0.176,Faible,15.16,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6258-NGCNG,0.1758,Faible,-35.13,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3896-RCYYE,0.1722,Faible,-16.89,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+3893-JRNFS,0.1695,Faible,-25.66,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+5014-WUQMG,0.1695,Faible,8.65,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+6497-TILVL,0.1694,Faible,-19.08,Ne pas contacter,0,tenure_group | Contract_Month-to-month | tenure
+3639-XJHKQ,0.169,Faible,-13.13,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaymentMethod_Electronic check
+1360-XFJMR,0.1686,Faible,16.57,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0516-OOHAR,0.1681,Faible,10.72,Contacter,0,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+5140-FOMCQ,0.1677,Faible,15.9,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+4190-MFLUW,0.1677,Faible,-16.68,Ne pas contacter,1,tenure_group | Contract_Month-to-month | Contract_Two year
+9633-DENPU,0.1675,Faible,-14.66,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+8166-ORCHU,0.1662,Faible,5.99,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+8409-WQJUX,0.1659,Faible,-17.63,Ne pas contacter,0,PhoneService_Yes | PaymentMethod_Electronic check | Contract_Two year
+6773-LQTVT,0.1643,Faible,-28.91,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+4701-MLJPN,0.1634,Faible,-17.51,Ne pas contacter,1,Contract_Month-to-month | PaymentMethod_Electronic check | PaperlessBilling_Yes
+6583-SZVGP,0.1625,Faible,13.26,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+3794-NFNCH,0.1614,Faible,-20.95,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+4700-UBQMV,0.1614,Faible,-5.9,Ne pas contacter,0,tenure_group | PaperlessBilling_Yes | Contract_Two year
+5921-NGYRH,0.1612,Faible,-7.32,Ne pas contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaperlessBilling_Yes
+9962-BFPDU,0.1611,Faible,-38.37,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+5440-VHLUL,0.1607,Faible,10.85,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2748-MYRVK,0.1596,Faible,7.4,Contacter,1,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+9115-YQHGA,0.1591,Faible,-20.74,Ne pas contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | PaperlessBilling_Yes
+9107-UKCKY,0.1586,Faible,-4.43,Ne pas contacter,0,PaymentMethod_Electronic check | MonthlyCharges | PaperlessBilling_Yes
+4402-FTBXC,0.1583,Faible,1.18,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+6164-HXUGH,0.157,Faible,-38.78,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7764-BDPEE,0.1565,Faible,-38.25,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3077-RSNTJ,0.1564,Faible,-38.91,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+3948-FVVRP,0.156,Faible,-19.22,Ne pas contacter,0,tenure_group | Contract_Month-to-month | Contract_Two year
+0665-XHDJU,0.1531,Faible,4.79,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+2155-AMQRX,0.1531,Faible,-19.74,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+3523-QRQLL,0.1519,Faible,-12.0,Ne pas contacter,1,tenure_group | PaperlessBilling_Yes | Contract_Two year
+2969-WGHQO,0.1511,Faible,-12.21,Ne pas contacter,0,tenure_group | PaymentMethod_Electronic check | tenure
+6733-LRIZX,0.1506,Faible,9.08,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7130-CTCUS,0.1503,Faible,-20.49,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+4946-EDSEW,0.1499,Faible,-39.61,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+8433-WPJTV,0.1493,Faible,5.83,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+1346-PJWTK,0.1491,Faible,0.52,Contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+9972-VAFJJ,0.1489,Faible,0.39,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9139-WQQDY,0.1489,Faible,3.84,Contacter,1,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+6383-ZTSIW,0.1472,Faible,2.51,Contacter,0,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+4016-BJKTZ,0.1451,Faible,6.9,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5473-KHBPS,0.1448,Faible,-0.12,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9138-EFSMO,0.1443,Faible,-9.0,Ne pas contacter,0,InternetService_Fiber optic | n_protection_services | MonthlyCharges
+4075-JFPGR,0.1439,Faible,-1.58,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9013-AQORL,0.1431,Faible,-26.54,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | Contract_Two year
+7789-CRUVC,0.1426,Faible,-1.66,Ne pas contacter,0,Contract_Month-to-month | MonthlyCharges | InternetService_Fiber optic
+1852-XEMDW,0.1421,Faible,-16.72,Ne pas contacter,0,Contract_Month-to-month | tenure_group | Contract_Two year
+7311-MQJCH,0.1414,Faible,-40.05,Ne pas contacter,0,tenure_group | n_protection_services | PaymentMethod_Electronic check
+5966-EMAZU,0.1404,Faible,4.85,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0484-FFVBJ,0.1403,Faible,-17.25,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+2972-YDYUW,0.1396,Faible,-2.39,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5533-RJFTJ,0.1389,Faible,-34.9,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+6421-SZVEM,0.1367,Faible,-9.23,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+5240-CAOYT,0.1366,Faible,-6.94,Ne pas contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+5155-AZQPB,0.1357,Faible,-25.63,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | Contract_Two year
+2019-HDCZY,0.1354,Faible,0.01,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9039-RBEEE,0.1353,Faible,-26.15,Ne pas contacter,1,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+0516-UXRMT,0.1353,Faible,-5.18,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+6838-HVLXG,0.1352,Faible,-40.12,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+8401-EMUWF,0.135,Faible,-16.28,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+9367-TCUYN,0.1344,Faible,-40.27,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+5081-NWSUP,0.1344,Faible,-18.6,Ne pas contacter,0,tenure_group | Contract_Two year | tenure
+7879-CGSFV,0.1336,Faible,-1.46,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0373-AIVNJ,0.1333,Faible,-31.02,Ne pas contacter,0,PhoneService_Yes | tenure_group | Contract_Two year
+4785-QRJHC,0.1332,Faible,-21.28,Ne pas contacter,1,PhoneService_Yes | PaperlessBilling_Yes | Contract_Two year
+5863-OOKCL,0.1332,Faible,-40.96,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2428-ZMCTB,0.1327,Faible,-40.57,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+7531-GQHME,0.1321,Faible,-40.47,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+9256-JTBNZ,0.1321,Faible,-40.35,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+2001-MCUUW,0.1306,Faible,1.07,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9909-DFRJA,0.1304,Faible,-5.01,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6968-MHOMU,0.1301,Faible,-28.93,Ne pas contacter,0,PhoneService_Yes | n_protection_services | PaperlessBilling_Yes
+8849-GYOKR,0.1293,Faible,-0.39,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+2040-OBMLJ,0.1291,Faible,-12.03,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | Contract_Two year
+9097-ZUBYC,0.1289,Faible,-27.35,Ne pas contacter,0,Contract_Month-to-month | tenure_group | Contract_Two year
+3680-CTHUH,0.1289,Faible,4.1,Contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6198-PNNSZ,0.1267,Faible,0.09,Contacter,0,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+3011-WQKSZ,0.1265,Faible,-40.9,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+9378-FXTIZ,0.125,Faible,-18.42,Ne pas contacter,1,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+0743-HRVFF,0.1242,Faible,-24.89,Ne pas contacter,0,PhoneService_Yes | PaymentMethod_Electronic check | PaperlessBilling_Yes
+4759-PXTAN,0.123,Faible,-14.54,Ne pas contacter,0,PaymentMethod_Electronic check | MonthlyCharges | PaperlessBilling_Yes
+2250-IVBWA,0.1229,Faible,-14.15,Ne pas contacter,0,Contract_Month-to-month | InternetService_Fiber optic | PaymentMethod_Electronic check
+1629-DQQVB,0.1223,Faible,-27.94,Ne pas contacter,0,Contract_Month-to-month | tenure_group | Contract_Two year
+4489-SNOJF,0.1219,Faible,-18.3,Ne pas contacter,1,Contract_Month-to-month | PaymentMethod_Electronic check | Contract_Two year
+6297-NOOPG,0.121,Faible,-1.88,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9357-UJRUN,0.1204,Faible,-24.7,Ne pas contacter,0,tenure_group | PaymentMethod_Electronic check | PaperlessBilling_Yes
+9040-KZVWO,0.1187,Faible,-17.74,Ne pas contacter,0,InternetService_Fiber optic | Contract_Two year | InternetService_No
+7159-NOKYQ,0.1185,Faible,-10.25,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9480-BQJEI,0.1184,Faible,-10.67,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2001-EWBQU,0.1179,Faible,-5.56,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+2212-LYASK,0.1179,Faible,-30.54,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | Contract_Two year
+2923-ARZLG,0.1162,Faible,-41.76,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+4830-FAXFM,0.1158,Faible,-39.95,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+6112-KTHFQ,0.1157,Faible,-41.96,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+2272-WUSPA,0.1153,Faible,-4.04,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9364-YKUVW,0.1151,Faible,-41.8,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+1492-QGCLU,0.1151,Faible,-14.5,Ne pas contacter,0,Contract_Month-to-month | MonthlyCharges | PaymentMethod_Electronic check
+2129-ALKBS,0.115,Faible,-39.16,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaymentMethod_Electronic check
+2958-NHPPS,0.1144,Faible,-41.41,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+2165-VOEGB,0.1141,Faible,-6.78,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0536-ACXIP,0.1141,Faible,-5.01,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+0257-KXZGU,0.1125,Faible,-24.7,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+4332-MUOEZ,0.1122,Faible,-11.91,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | tenure_group
+7997-EASSD,0.1118,Faible,-17.31,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+3623-FQBOX,0.1117,Faible,-41.98,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+8735-NBLWT,0.1114,Faible,-41.82,Ne pas contacter,0,tenure_group | Contract_Month-to-month | n_protection_services
+6784-XYJAE,0.1112,Faible,-27.65,Ne pas contacter,0,PaymentMethod_Electronic check | Contract_Two year | InternetService_No
+1218-VKFPE,0.1111,Faible,-42.4,Ne pas contacter,1,tenure_group | Contract_Month-to-month | n_protection_services
+5808-TOTXO,0.1094,Faible,-41.9,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+1395-OFUWC,0.1092,Faible,-38.48,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | Contract_Two year
+8457-XIGKN,0.1088,Faible,-42.32,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+0297-RBCSG,0.1084,Faible,-24.49,Ne pas contacter,0,tenure_group | PaperlessBilling_Yes | Contract_Two year
+6568-POCUI,0.1081,Faible,-12.95,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6968-URWQU,0.108,Faible,-28.09,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+0725-CXOTM,0.1079,Faible,-15.18,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | Contract_Two year
+5025-GOOKI,0.1078,Faible,-42.66,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+9308-ANMVE,0.1075,Faible,-28.59,Ne pas contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | PaperlessBilling_Yes
+5360-LJCNJ,0.1071,Faible,-9.47,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+1131-SUEKT,0.1066,Faible,-12.24,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+7572-KPVKK,0.1066,Faible,-10.08,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+4419-UJMUS,0.106,Faible,-12.1,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+3571-DPYUH,0.106,Faible,-13.88,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+4002-BQWPQ,0.1057,Faible,-18.89,Ne pas contacter,0,Contract_Month-to-month | MonthlyCharges | Contract_Two year
+1744-JHKYS,0.1054,Faible,-40.62,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaymentMethod_Electronic check
+5446-DKWYW,0.1054,Faible,-25.26,Ne pas contacter,0,PaymentMethod_Electronic check | PaperlessBilling_Yes | Contract_Two year
+9143-CANJF,0.1048,Faible,-29.2,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaymentMethod_Electronic check
+0289-IVARM,0.1046,Faible,-27.2,Ne pas contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | Contract_Two year
+3096-WPXBT,0.1042,Faible,-12.22,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+3594-UVONA,0.1042,Faible,-17.76,Ne pas contacter,1,MonthlyCharges | PaperlessBilling_Yes | Contract_Two year
+8034-RYTVV,0.1037,Faible,-18.55,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+5709-LVOEQ,0.1032,Faible,-19.97,Ne pas contacter,0,tenure_group | tenure | MonthlyCharges
+1530-ZTDOZ,0.1031,Faible,-34.91,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | Contract_Two year
+0440-UEDAI,0.103,Faible,-14.97,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+5445-PZWGX,0.1027,Faible,-12.3,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+8909-BOLNL,0.1025,Faible,-42.18,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+9931-KGHOA,0.1022,Faible,-29.76,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+0997-YTLNY,0.1022,Faible,-32.05,Ne pas contacter,0,Contract_Month-to-month | tenure_group | Contract_Two year
+9128-CPXKI,0.1015,Faible,-14.99,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+4079-VTGLK,0.1012,Faible,-22.72,Ne pas contacter,0,PaymentMethod_Electronic check | InternetService_No | StreamingTV_Yes
+7803-XOCCZ,0.1012,Faible,-19.38,Ne pas contacter,0,Contract_Month-to-month | InternetService_Fiber optic | MonthlyCharges
+5619-XZZKR,0.1004,Faible,-42.79,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+6242-SGYTS,0.1,Faible,-15.82,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+3324-OIRTO,0.0993,Faible,-12.58,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+4501-UYKBC,0.0988,Faible,-25.42,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+3733-UOCWF,0.0984,Faible,-19.68,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+9715-WZCLW,0.0984,Faible,-15.57,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+6598-RFFVI,0.0975,Faible,-43.23,Ne pas contacter,1,tenure_group | n_protection_services | tenure
+3181-MIZBN,0.0973,Faible,-43.09,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+2233-TXSIU,0.0969,Faible,-34.5,Ne pas contacter,0,PhoneService_Yes | tenure_group | Contract_Two year
+1264-FUHCX,0.0969,Faible,-30.37,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | Contract_Two year
+3729-OWRVL,0.0966,Faible,-11.62,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5566-SOEZD,0.0963,Faible,-22.05,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+8646-JCOMS,0.0958,Faible,-18.78,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6900-RBKER,0.0957,Faible,-19.19,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2307-FYNNL,0.0952,Faible,-12.61,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+8582-KRHPJ,0.0949,Faible,-38.04,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+2926-JEJJC,0.0948,Faible,-43.11,Ne pas contacter,0,tenure_group | n_protection_services | PaperlessBilling_Yes
+7036-TYDEC,0.0935,Faible,-14.99,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+2746-DIJLO,0.0923,Faible,-31.28,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+1444-VVSGW,0.0922,Faible,-11.63,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+0377-JBKKT,0.092,Faible,-30.81,Ne pas contacter,0,Contract_Month-to-month | tenure_group | PaperlessBilling_Yes
+2533-QVMSK,0.0912,Faible,-19.11,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+0076-LVEPS,0.0905,Faible,-35.33,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | PaperlessBilling_Yes
+0106-UGRDO,0.0899,Faible,-12.44,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7654-YWJUF,0.0895,Faible,-22.86,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+4353-HYOJD,0.0891,Faible,-34.01,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+7666-WKRON,0.0887,Faible,-24.3,Ne pas contacter,1,InternetService_Fiber optic | PaymentMethod_Electronic check | MonthlyCharges
+7691-XVTZH,0.0886,Faible,-21.32,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+8089-UZWLX,0.0876,Faible,-17.18,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+9330-VOFSZ,0.0876,Faible,-15.07,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+1730-VFMWO,0.0868,Faible,-34.31,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+9822-BIIGN,0.0866,Faible,-27.61,Ne pas contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | Contract_Two year
+2408-PSJVE,0.0864,Faible,-30.76,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+2239-CFOUJ,0.0858,Faible,-43.7,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+7641-TQFHN,0.0857,Faible,-18.98,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+5514-YQENT,0.0856,Faible,-15.75,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+0164-APGRB,0.0849,Faible,-14.9,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+4464-JCOLN,0.0843,Faible,-43.97,Ne pas contacter,1,tenure_group | n_protection_services | tenure
+9586-JGQKH,0.084,Faible,-18.13,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+5236-PERKL,0.084,Faible,-15.86,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2967-MXRAV,0.0839,Faible,-44.32,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+1545-JFUML,0.0835,Faible,-20.24,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9402-ROUMJ,0.0833,Faible,-19.94,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9405-GPBBG,0.0829,Faible,-17.03,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6993-YCOBK,0.0825,Faible,-17.17,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7762-ONLJY,0.082,Faible,-44.18,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+1729-VLAZJ,0.0818,Faible,-38.15,Ne pas contacter,0,PhoneService_Yes | tenure_group | Contract_Two year
+7233-IOQNP,0.0818,Faible,-39.99,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | Contract_Two year
+5537-UXXVS,0.0814,Faible,-44.36,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+2930-UOTMB,0.0813,Faible,-30.9,Ne pas contacter,1,Contract_Month-to-month | Contract_Two year | InternetService_No
+5161-XEUVX,0.0806,Faible,-22.63,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+5027-YOCXN,0.0803,Faible,-18.17,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | Contract_Two year
+5297-MDOIR,0.0803,Faible,-26.53,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+5857-XRECV,0.0799,Faible,-44.1,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+6682-QJDGB,0.0797,Faible,-34.15,Ne pas contacter,1,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+7816-VGHTO,0.079,Faible,-38.47,Ne pas contacter,0,tenure_group | PhoneService_Yes | tenure
+3229-USWAR,0.0787,Faible,-27.36,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | Contract_Two year
+8741-LQOBK,0.0786,Faible,-40.09,Ne pas contacter,0,PhoneService_Yes | Contract_Month-to-month | Contract_Two year
+0661-KBKPA,0.078,Faible,-27.89,Ne pas contacter,0,PaperlessBilling_Yes | MonthlyCharges | Contract_Two year
+8780-RSYYU,0.0772,Faible,-44.67,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaperlessBilling_Yes
+9972-NKTFD,0.0772,Faible,-34.81,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+3354-OADJP,0.0771,Faible,-34.94,Ne pas contacter,0,tenure_group | Contract_Two year | tenure
+1097-FSPVW,0.0771,Faible,-34.85,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+6933-FHBZC,0.0771,Faible,-34.44,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+9052-DHNKM,0.0767,Faible,-33.01,Ne pas contacter,0,PaymentMethod_Electronic check | Contract_Two year | InternetService_No
+5671-RQRLP,0.0766,Faible,-29.13,Ne pas contacter,0,InternetService_Fiber optic | n_protection_services | charge_per_service
+9917-KWRBE,0.0753,Faible,-28.77,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | MonthlyCharges
+5468-BPMMO,0.0748,Faible,-44.72,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaymentMethod_Electronic check
+0134-XWXCE,0.0746,Faible,-29.9,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+7971-HLVXI,0.0736,Faible,-27.6,Ne pas contacter,0,InternetService_Fiber optic | n_protection_services | MonthlyCharges
+3301-VKTGC,0.0732,Faible,-27.48,Ne pas contacter,0,InternetService_Fiber optic | MonthlyCharges | PaperlessBilling_Yes
+1952-DVVSW,0.0731,Faible,-44.71,Ne pas contacter,0,tenure_group | n_protection_services | Contract_Two year
+6967-PEJLL,0.0727,Faible,-39.47,Ne pas contacter,0,PhoneService_Yes | PaymentMethod_Electronic check | PaperlessBilling_Yes
+6075-QMNRR,0.0723,Faible,-37.06,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+1036-GUDCL,0.0721,Faible,-29.47,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | MonthlyCharges
+1136-XGEQU,0.071,Faible,-28.49,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | Contract_Two year
+8015-IHCGW,0.0707,Faible,-20.6,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+5018-LXQQG,0.0705,Faible,-33.18,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+5271-YNWVR,0.0704,Faible,-21.33,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7649-PHJVR,0.0703,Faible,-45.07,Ne pas contacter,0,tenure_group | n_protection_services | Contract_Two year
+7032-LMBHI,0.0703,Faible,-33.63,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+5236-XMZJY,0.0694,Faible,-35.11,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+1038-RQOST,0.0694,Faible,-44.85,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+2323-ARSVR,0.0694,Faible,-22.25,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+7010-ZMVBF,0.0694,Faible,-44.89,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+6766-HFKLA,0.069,Faible,-24.38,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+4223-BKEOR,0.0689,Faible,-33.91,Ne pas contacter,0,tenure_group | Contract_Two year | InternetService_No
+2877-VDUER,0.0684,Faible,-39.93,Ne pas contacter,0,PhoneService_Yes | Contract_Two year | InternetService_No
+7520-HQWJU,0.068,Faible,-33.48,Ne pas contacter,0,Contract_Month-to-month | PaperlessBilling_Yes | Contract_Two year
+0628-CNQRM,0.0678,Faible,-33.51,Ne pas contacter,1,tenure_group | PaperlessBilling_Yes | Contract_Two year
+7663-CUXZB,0.0673,Faible,-22.45,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+3530-VWVGU,0.0672,Faible,-45.18,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | tenure_group
+9866-OCCKE,0.0666,Faible,-23.7,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+7838-LAZFO,0.0663,Faible,-31.18,Ne pas contacter,0,MonthlyCharges | Contract_Two year | InternetService_No
+6734-FQAJX,0.0658,Faible,-25.12,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaymentMethod_Electronic check
+9351-HXDMR,0.0658,Faible,-23.72,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9070-BCKQP,0.0652,Faible,-24.15,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2798-NYLMZ,0.0644,Faible,-24.85,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0983-TATYJ,0.0644,Faible,-38.07,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+2834-JKOOW,0.0636,Faible,-39.48,Ne pas contacter,0,PhoneService_Yes | tenure_group | Contract_Two year
+5524-KHNJP,0.0631,Faible,-33.02,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+9289-LBQVU,0.0628,Faible,-34.14,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+5975-BAICR,0.0627,Faible,-35.63,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+5701-GUXDC,0.0626,Faible,-42.02,Ne pas contacter,0,PhoneService_Yes | Contract_Two year | InternetService_No
+8819-ZBYNA,0.0625,Faible,-25.44,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9313-CDOGY,0.0625,Faible,-45.59,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaymentMethod_Electronic check
+7191-ADRGF,0.0619,Faible,-37.9,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+2171-UDMFD,0.0617,Faible,-45.68,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | PaperlessBilling_Yes
+6797-LNAQX,0.0616,Faible,-28.2,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+3750-YHRYO,0.0602,Faible,-45.52,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+9298-WGMRW,0.0591,Faible,-25.41,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+4537-CIBHB,0.059,Faible,-45.7,Ne pas contacter,0,tenure_group | n_protection_services | Contract_Two year
+5049-MUBWG,0.0589,Faible,-34.11,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+2907-ILJBN,0.0589,Faible,-45.63,Ne pas contacter,0,tenure_group | n_protection_services | Contract_Two year
+5442-BXVND,0.0587,Faible,-44.88,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | Contract_Two year
+2388-LAESQ,0.0587,Faible,-25.72,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9637-CDTKZ,0.0587,Faible,-25.89,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+5753-QQWPW,0.0586,Faible,-37.37,Ne pas contacter,0,PaymentMethod_Electronic check | PaperlessBilling_Yes | Contract_Two year
+2522-WLNSF,0.0583,Faible,-36.53,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+9209-NWPGU,0.0582,Faible,-36.3,Ne pas contacter,0,PaymentMethod_Electronic check | Contract_Two year | InternetService_No
+9313-QOLTZ,0.0582,Faible,-45.62,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | Contract_Two year
+7677-SJJJK,0.0577,Faible,-45.87,Ne pas contacter,0,tenure_group | n_protection_services | Contract_Two year
+3442-ZHHCC,0.0573,Faible,-34.15,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+9483-GCPWE,0.0573,Faible,-45.86,Ne pas contacter,0,tenure_group | n_protection_services | Contract_Two year
+9412-ARGBX,0.0568,Faible,-30.46,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0727-BNRLG,0.0568,Faible,-30.02,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+8573-JGCZW,0.0568,Faible,-45.99,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+2368-GAKKQ,0.0567,Faible,-26.81,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9473-CBZOP,0.0566,Faible,-37.98,Ne pas contacter,0,Contract_Two year | InternetService_No | MultipleLines_Yes
+8400-WZICQ,0.0564,Faible,-38.69,Ne pas contacter,0,Contract_Month-to-month | PaymentMethod_Electronic check | Contract_Two year
+0019-EFAEP,0.0554,Faible,-29.81,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9860-LISIZ,0.0554,Faible,-45.94,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | Contract_Two year
+8570-KLJYJ,0.055,Faible,-39.23,Ne pas contacter,0,Contract_Two year | InternetService_No | MultipleLines_Yes
+9142-XMYJH,0.0549,Faible,-46.17,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | Contract_Two year
+9758-MFWGD,0.0547,Faible,-44.11,Ne pas contacter,0,PhoneService_Yes | Contract_Two year | InternetService_No
+4137-JOPHL,0.0546,Faible,-32.36,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2325-ZUSFD,0.0543,Faible,-36.31,Ne pas contacter,1,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+2061-VVFST,0.0541,Faible,-46.2,Ne pas contacter,0,Contract_Month-to-month | n_protection_services | Contract_Two year
+6434-TTGJP,0.0539,Faible,-39.58,Ne pas contacter,0,PhoneService_Yes | tenure_group | tenure
+7492-TAFJD,0.0533,Faible,-42.61,Ne pas contacter,0,PhoneService_Yes | tenure_group | tenure
+3705-PSNGL,0.0531,Faible,-46.1,Ne pas contacter,1,n_protection_services | PaymentMethod_Electronic check | PaperlessBilling_Yes
+1131-ALZWV,0.0529,Faible,-45.32,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+9906-NHHVC,0.0527,Faible,-39.85,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | InternetService_No
+1150-WFARN,0.0526,Faible,-29.4,Ne pas contacter,1,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+8777-PVYGU,0.0522,Faible,-37.92,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+3766-EJLFL,0.0521,Faible,-29.54,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+8591-TKMZH,0.0521,Faible,-29.18,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+7690-KPNCU,0.0521,Faible,-36.31,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+6848-YLDFR,0.0517,Faible,-36.0,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+0866-QLSIR,0.0513,Faible,-38.11,Ne pas contacter,1,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+0980-FEXWF,0.051,Faible,-40.76,Ne pas contacter,0,Contract_Two year | InternetService_No | DeviceProtection_Yes
+8727-XDPUD,0.0503,Faible,-43.51,Ne pas contacter,0,PhoneService_Yes | n_protection_services | InternetService_No
+1929-ZCBHE,0.0499,Faible,-42.76,Ne pas contacter,0,PhoneService_Yes | PaymentMethod_Electronic check | Contract_Two year
+5825-XJOCM,0.0493,Faible,-38.56,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+9330-DHBFL,0.049,Faible,-38.3,Ne pas contacter,0,tenure_group | PaperlessBilling_Yes | Contract_Two year
+4702-HDRKD,0.0484,Faible,-41.4,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | Contract_Two year
+0254-KCJGT,0.0484,Faible,-35.81,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | Contract_Two year
+4378-MYPGO,0.0483,Faible,-31.69,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0017-IUDMW,0.0483,Faible,-29.68,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+3396-DKDEL,0.048,Faible,-30.11,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6445-TNRXS,0.0478,Faible,-30.27,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+3055-VTCGS,0.0474,Faible,-40.0,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingMovies_Yes
+6919-ELBGL,0.0469,Faible,-30.6,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+4376-KFVRS,0.0469,Faible,-30.75,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+7375-WMVMT,0.0466,Faible,-33.99,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+4627-MIHJH,0.0464,Faible,-31.57,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+6527-PZFPV,0.046,Faible,-46.55,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+7471-MQPOS,0.0459,Faible,-37.94,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+0868-VJRDR,0.0459,Faible,-32.82,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+6194-HBGQN,0.0458,Faible,-36.62,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | Contract_Two year
+5061-PBXFW,0.0458,Faible,-39.87,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+8915-NNTRC,0.0456,Faible,-32.31,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+7581-EBBOU,0.0452,Faible,-38.58,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+8690-UPCZI,0.045,Faible,-38.82,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+7338-ERIVA,0.045,Faible,-42.71,Ne pas contacter,0,PhoneService_Yes | Contract_Two year | InternetService_No
+5062-CJJKH,0.045,Faible,-41.32,Ne pas contacter,0,Contract_Two year | InternetService_No | DeviceProtection_Yes
+0074-HDKDG,0.0448,Faible,-40.07,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+9530-GRMJG,0.0446,Faible,-36.48,Ne pas contacter,0,MonthlyCharges | PaymentMethod_Electronic check | PaperlessBilling_Yes
+6726-NNFWD,0.0444,Faible,-35.7,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+9926-PJHDQ,0.0443,Faible,-37.76,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MonthlyCharges
+7636-PEPNS,0.0441,Faible,-42.99,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+4227-OJHAL,0.0441,Faible,-38.4,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+4086-ATNFV,0.0437,Faible,-40.44,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+4530-NDRKU,0.0435,Faible,-47.02,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | PaperlessBilling_Yes
+4304-TSPVK,0.0434,Faible,-32.07,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+8809-XKHMD,0.0433,Faible,-34.32,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+8024-XNAFQ,0.0432,Faible,-33.29,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2788-CJQAQ,0.0432,Faible,-46.97,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+1936-CZAKF,0.0431,Faible,-42.29,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+5505-OVWQW,0.0427,Faible,-46.9,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+7359-WWYJV,0.0426,Faible,-32.44,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+1133-KXCGE,0.0425,Faible,-46.92,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+0307-BCOPK,0.0423,Faible,-47.1,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+9640-ZSLDC,0.0423,Faible,-40.76,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingMovies_Yes
+1936-UAFEH,0.042,Faible,-33.35,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+5204-HMGYF,0.0417,Faible,-36.91,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | Contract_Two year
+2320-TZRRH,0.0416,Faible,-47.08,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+4359-INNWN,0.0415,Faible,-47.01,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+4717-GHADL,0.0412,Faible,-38.19,Ne pas contacter,0,PaperlessBilling_Yes | MonthlyCharges | InternetService_No
+3926-YZVVX,0.041,Faible,-42.62,Ne pas contacter,0,Contract_Two year | InternetService_No | Dependents_Yes
+7279-NMVJC,0.041,Faible,-47.07,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+7369-TRPFD,0.0409,Faible,-47.23,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+2511-MORQY,0.0409,Faible,-41.92,Ne pas contacter,0,Contract_Two year | InternetService_No | MultipleLines_Yes
+3125-RAHBV,0.0406,Faible,-47.03,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+9746-UGFAC,0.0405,Faible,-46.96,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+9720-JJJOR,0.0404,Faible,-41.22,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+0121-SNYRK,0.0402,Faible,-44.87,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | Contract_Two year
+5245-VDBUR,0.04,Faible,-44.89,Ne pas contacter,0,PhoneService_Yes | Contract_Two year | InternetService_No
+9534-NSXEM,0.0397,Faible,-47.05,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+6061-GWWAV,0.0396,Faible,-40.0,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+8869-TORSS,0.0395,Faible,-41.42,Ne pas contacter,1,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+3115-CZMZD,0.0393,Faible,-47.14,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+2088-IEBAU,0.0392,Faible,-37.56,Ne pas contacter,0,MonthlyCharges | PaymentMethod_Electronic check | PaperlessBilling_Yes
+6374-NTQLP,0.0389,Faible,-35.41,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9220-ZNKJI,0.0386,Faible,-37.65,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+4973-RLZVI,0.0385,Faible,-39.65,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+1741-WTPON,0.0385,Faible,-33.94,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+3717-FDJFU,0.0384,Faible,-47.17,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+1063-DHQJF,0.038,Faible,-37.39,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+2188-SXWVT,0.0377,Faible,-42.54,Ne pas contacter,0,Contract_Two year | InternetService_No | Dependents_Yes
+9777-IQHWP,0.0376,Faible,-37.36,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+4981-FLTMF,0.0374,Faible,-41.22,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+3649-JPUGY,0.0374,Faible,-38.06,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+6223-DHJGV,0.0373,Faible,-47.23,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+3982-JGSFD,0.0372,Faible,-47.28,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+2245-ADZFJ,0.037,Faible,-39.28,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+4877-TSOFF,0.0368,Faible,-39.95,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+8717-VCTXJ,0.0366,Faible,-47.42,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+3506-OVLKD,0.0364,Faible,-46.56,Ne pas contacter,0,n_protection_services | Contract_Two year | MultipleLines_Yes
+8782-NUUOL,0.0364,Faible,-39.65,Ne pas contacter,0,MonthlyCharges | Contract_Two year | InternetService_No
+9108-EQPNQ,0.0361,Faible,-46.6,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+9359-UGBTK,0.036,Faible,-40.63,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+5696-CEIQJ,0.0357,Faible,-36.75,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+3831-YCPUO,0.0356,Faible,-35.97,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+9919-FZDED,0.0355,Faible,-39.25,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+1271-UODNO,0.0354,Faible,-43.14,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MultipleLines_Yes
+6013-BHCAW,0.0349,Faible,-39.83,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+9385-NXKDA,0.0349,Faible,-39.61,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+6519-ZHPXP,0.0348,Faible,-36.45,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+0056-EPFBG,0.0347,Faible,-45.08,Ne pas contacter,0,PhoneService_Yes | tenure_group | PaperlessBilling_Yes
+5702-KVQRD,0.0347,Faible,-39.7,Ne pas contacter,0,MonthlyCharges | PaymentMethod_Electronic check | PaperlessBilling_Yes
+6872-HXFNF,0.0345,Faible,-42.76,Ne pas contacter,0,Contract_Two year | InternetService_No | MultipleLines_Yes
+6461-PPAXN,0.0341,Faible,-43.26,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+4709-LKHYG,0.034,Faible,-47.55,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | Contract_Two year
+4560-WQAQW,0.0339,Faible,-41.61,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingMovies_Yes
+9030-QGZNL,0.0339,Faible,-47.45,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+8779-YIQQA,0.0339,Faible,-47.59,Ne pas contacter,0,n_protection_services | tenure_group | Contract_Two year
+2332-TODQS,0.0336,Faible,-46.97,Ne pas contacter,0,n_protection_services | Contract_Two year | MultipleLines_Yes
+6698-OXETB,0.0332,Faible,-47.56,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+8763-KIAFH,0.0331,Faible,-47.55,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+1139-WUOAH,0.033,Faible,-43.67,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+5820-PTRYM,0.0329,Faible,-41.9,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+2541-YGPKE,0.0327,Faible,-42.51,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingMovies_Yes
+5574-NXZIU,0.0326,Faible,-37.18,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+5170-PTRKA,0.0326,Faible,-45.8,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | Contract_Two year
+0979-MOZQI,0.0325,Faible,-45.44,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | InternetService_No
+2676-SSLTO,0.0324,Faible,-42.27,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingTV_Yes
+5313-FPXWG,0.0323,Faible,-47.14,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+1525-LNLOJ,0.0317,Faible,-42.78,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingTV_Yes
+1265-HVPZB,0.031,Faible,-42.59,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+4737-HOBAX,0.031,Faible,-41.09,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+5519-TEEUH,0.0308,Faible,-47.77,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+1023-BQXZE,0.0307,Faible,-41.78,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingTV_Yes
+1122-YJBCS,0.0306,Faible,-44.09,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+1776-SPBWV,0.0305,Faible,-47.79,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+7322-OCWHC,0.0305,Faible,-39.79,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | PaperlessBilling_Yes
+5893-PYOLZ,0.0304,Faible,-41.04,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+9867-XOBQA,0.0302,Faible,-44.21,Ne pas contacter,0,PhoneService_Yes | tenure_group | InternetService_No
+7996-BPXHY,0.0299,Faible,-47.31,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+4751-ERMAN,0.0298,Faible,-41.91,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingTV_Yes
+4500-HKANN,0.0295,Faible,-43.66,Ne pas contacter,0,tenure_group | InternetService_No | MultipleLines_Yes
+6322-HRPFA,0.0295,Faible,-43.67,Ne pas contacter,0,Contract_Month-to-month | Contract_Two year | InternetService_No
+9648-BCHKM,0.0292,Faible,-47.41,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+5498-IBWPI,0.0291,Faible,-44.82,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+4648-YPBTM,0.0289,Faible,-42.32,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingMovies_Yes
+5318-YKDPV,0.0289,Faible,-41.76,Ne pas contacter,0,PaperlessBilling_Yes | MonthlyCharges | InternetService_No
+5924-SNGKP,0.0288,Faible,-47.9,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+0788-DXBFY,0.0286,Faible,-47.99,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | PaperlessBilling_Yes
+3985-HOYPM,0.0286,Faible,-48.0,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+8626-PTQGE,0.0281,Faible,-43.92,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | InternetService_No
+9824-QCJPK,0.0281,Faible,-47.97,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+8873-TMKGR,0.0279,Faible,-48.08,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+2150-OEGBV,0.0278,Faible,-47.99,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+8314-HTWVE,0.0277,Faible,-48.02,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+5057-RKGLH,0.0276,Faible,-47.98,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+1494-EJZDW,0.0274,Faible,-48.01,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+0181-RITDD,0.0273,Faible,-39.39,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+0230-UBYPQ,0.0271,Faible,-46.47,Ne pas contacter,0,PhoneService_Yes | Contract_Two year | InternetService_No
+1227-UDMZR,0.0271,Faible,-41.12,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+8390-FESFV,0.0271,Faible,-41.77,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+6823-SIDFQ,0.0271,Faible,-48.22,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+5469-NUJUR,0.027,Faible,-48.06,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+9339-FIIJL,0.027,Faible,-41.66,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+5917-RYRMG,0.027,Faible,-48.07,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+5380-XPJNZ,0.0269,Faible,-48.06,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+5495-GPSRW,0.0268,Faible,-48.1,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+3489-VSFRD,0.0268,Faible,-44.18,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+0057-QBUQH,0.0265,Faible,-47.61,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | PaperlessBilling_Yes
+6701-YVNQG,0.0265,Faible,-41.53,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+7337-CINUD,0.0264,Faible,-48.15,Ne pas contacter,0,tenure_group | n_protection_services | tenure
+0707-HOVVN,0.0261,Faible,-42.9,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingTV_Yes
+2987-BJXIK,0.0258,Faible,-42.15,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+4121-AGSIN,0.0257,Faible,-47.73,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+8345-MVDYC,0.0255,Faible,-42.52,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+1090-ESELR,0.0253,Faible,-40.4,Ne pas contacter,0,MonthlyCharges | InternetService_Fiber optic | InternetService_No
+5696-JVVQY,0.0252,Faible,-43.64,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingMovies_Yes
+0164-XAIRP,0.0252,Faible,-48.22,Ne pas contacter,0,n_protection_services | tenure_group | PaperlessBilling_Yes
+2812-REYAT,0.0251,Faible,-48.19,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+6332-FBZRI,0.0248,Faible,-43.82,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+5324-KTGCG,0.0246,Faible,-48.15,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | Contract_Two year
+2335-GSODA,0.0244,Faible,-46.48,Ne pas contacter,0,PhoneService_Yes | tenure_group | InternetService_No
+0052-YNYOT,0.0242,Faible,-48.21,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | Contract_Two year
+9610-WCESF,0.0239,Faible,-46.23,Ne pas contacter,0,PhoneService_Yes | PaymentMethod_Electronic check | InternetService_No
+7632-YUTXB,0.0238,Faible,-48.28,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+8181-YHCMF,0.0237,Faible,-44.85,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+6685-GBWJZ,0.0236,Faible,-43.98,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingTV_Yes
+6814-ZPWFQ,0.0233,Faible,-47.91,Ne pas contacter,0,n_protection_services | Contract_Two year | MultipleLines_Yes
+3251-YMVWZ,0.0227,Faible,-48.03,Ne pas contacter,0,n_protection_services | Contract_Two year | MultipleLines_Yes
+0301-FIDRB,0.0227,Faible,-44.78,Ne pas contacter,0,PhoneService_Yes | PaperlessBilling_Yes | InternetService_No
+2824-DXNKN,0.0226,Faible,-44.19,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingTV_Yes
+6203-HBZPA,0.0224,Faible,-44.85,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+4962-CHQPW,0.0224,Faible,-48.4,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+6418-HNFED,0.0223,Faible,-43.33,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+7061-OVMIM,0.0222,Faible,-48.44,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+8590-OHDIW,0.0222,Faible,-48.38,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+4654-ULTTN,0.0219,Faible,-44.11,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingMovies_Yes
+9968-FFVVH,0.0217,Faible,-44.62,Ne pas contacter,0,Contract_Two year | InternetService_No | MultipleLines_Yes
+3508-VLHCZ,0.0216,Faible,-42.96,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+4955-VCWBI,0.0215,Faible,-48.45,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+5727-MYATE,0.0215,Faible,-42.96,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+3812-LRZIR,0.0213,Faible,-48.12,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | MultipleLines_Yes
+5751-USDBL,0.0213,Faible,-43.77,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+9067-SQTNS,0.0209,Faible,-48.45,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+0909-SELIE,0.0209,Faible,-43.92,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+7216-KAOID,0.0209,Faible,-48.54,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+5774-QPLTF,0.0206,Faible,-48.49,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+6681-ZSEXG,0.0206,Faible,-45.6,Ne pas contacter,0,InternetService_No | MultipleLines_Yes | DeviceProtection_Yes
+0513-RBGPE,0.0204,Faible,-45.39,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MultipleLines_Yes
+7649-SIJJF,0.0203,Faible,-44.14,Ne pas contacter,0,MonthlyCharges | PaperlessBilling_Yes | InternetService_No
+5063-IUOKK,0.02,Faible,-48.58,Ne pas contacter,0,n_protection_services | tenure_group | tenure
+5266-PFRQK,0.02,Faible,-48.5,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+3967-KXAPS,0.0198,Faible,-43.41,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+0420-TXVSG,0.0197,Faible,-45.32,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MultipleLines_Yes
+5329-KRDTM,0.0197,Faible,-44.52,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+1568-BEKZM,0.0195,Faible,-43.67,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+9674-EHPPG,0.0195,Faible,-47.17,Ne pas contacter,0,PhoneService_Yes | InternetService_No | DeviceProtection_Yes
+3161-ONRWK,0.0195,Faible,-45.38,Ne pas contacter,0,PaperlessBilling_Yes | Contract_Two year | InternetService_No
+9548-LERKT,0.0194,Faible,-48.62,Ne pas contacter,0,n_protection_services | tenure_group | Dependents_Yes
+3865-ZFZIB,0.0192,Faible,-48.64,Ne pas contacter,0,n_protection_services | tenure_group | tenure
+4703-MQYKT,0.019,Faible,-48.66,Ne pas contacter,0,n_protection_services | tenure_group | Dependents_Yes
+2990-IAJSV,0.0189,Faible,-43.73,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+0298-XACET,0.0188,Faible,-46.59,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+0263-FJTQO,0.0188,Faible,-45.23,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingTV_Yes
+6953-PBDIN,0.0188,Faible,-45.07,Ne pas contacter,0,InternetService_No | StreamingTV_Yes | MultipleLines_Yes
+6119-SPUDB,0.0188,Faible,-47.41,Ne pas contacter,0,PhoneService_Yes | InternetService_No | DeviceProtection_Yes
+0559-CKHUS,0.0186,Faible,-48.69,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+9073-ZZIAY,0.0185,Faible,-44.27,Ne pas contacter,0,MonthlyCharges | PaymentMethod_Electronic check | InternetService_No
+8430-TWCBX,0.0184,Faible,-48.63,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+4825-FUREZ,0.0184,Faible,-48.66,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | Dependents_Yes
+3487-EARAT,0.0183,Faible,-45.11,Ne pas contacter,0,Contract_Two year | InternetService_No | StreamingMovies_Yes
+6096-EGVTU,0.0183,Faible,-48.36,Ne pas contacter,0,n_protection_services | Contract_Two year | MultipleLines_Yes
+1085-LDWAM,0.0181,Faible,-48.67,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+1459-QNFQT,0.0181,Faible,-46.11,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+4302-ZYFEL,0.0181,Faible,-48.66,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Contract_Two year
+0048-PIHNL,0.018,Faible,-48.67,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+6388-TABGU,0.0178,Faible,-46.4,Ne pas contacter,0,Contract_Two year | InternetService_No | TechSupport_Yes
+8292-ITGYJ,0.0177,Faible,-48.43,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+2885-HIJDH,0.0173,Faible,-44.59,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+7401-JIXNM,0.0171,Faible,-44.38,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+1088-AUUZZ,0.017,Faible,-45.37,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | StreamingMovies_Yes
+4213-HKBJO,0.0169,Faible,-48.44,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+6064-ZATLR,0.0169,Faible,-46.78,Ne pas contacter,0,InternetService_No | Dependents_Yes | TechSupport_Yes
+7205-BAIAD,0.0166,Faible,-48.77,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+0769-MURVM,0.0166,Faible,-46.08,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+4039-PIMHX,0.0165,Faible,-47.03,Ne pas contacter,0,InternetService_No | Dependents_Yes | TechSupport_Yes
+0123-CRBRT,0.0163,Faible,-44.83,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+8241-JUIQO,0.0162,Faible,-48.86,Ne pas contacter,0,n_protection_services | Contract_Two year | Dependents_Yes
+2649-HWLYB,0.0162,Faible,-45.57,Ne pas contacter,0,InternetService_No | StreamingMovies_Yes | MonthlyCharges
+2266-FUBDZ,0.016,Faible,-48.89,Ne pas contacter,0,n_protection_services | tenure_group | tenure
+0379-DJQHR,0.016,Faible,-45.32,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+0839-JTCUD,0.0158,Faible,-44.9,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+8580-QVLOC,0.0157,Faible,-44.78,Ne pas contacter,1,MonthlyCharges | InternetService_No | StreamingTV_Yes
+2892-GESUL,0.0157,Faible,-48.91,Ne pas contacter,0,n_protection_services | tenure_group | tenure
+4674-HGNUA,0.0153,Faible,-45.04,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+7560-QJAVJ,0.0153,Faible,-45.6,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+8173-RXAYP,0.0153,Faible,-48.91,Ne pas contacter,0,n_protection_services | tenure_group | TechSupport_Yes
+7408-OFWXJ,0.0152,Faible,-45.08,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+3978-YNKDD,0.0152,Faible,-48.86,Ne pas contacter,0,n_protection_services | tenure_group | tenure
+2925-VDZHY,0.015,Faible,-45.2,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+4335-UPJSI,0.0149,Faible,-48.94,Ne pas contacter,0,n_protection_services | tenure_group | TechSupport_Yes
+9945-PSVIP,0.0147,Faible,-49.01,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | TechSupport_Yes
+4521-WFJAI,0.0146,Faible,-48.63,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+9950-MTGYX,0.0145,Faible,-48.94,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | TechSupport_Yes
+6917-FIJHC,0.0143,Faible,-48.66,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+6164-HAQTX,0.0142,Faible,-47.25,Ne pas contacter,0,PhoneService_Yes | InternetService_No | StreamingTV_Yes
+8207-VVMYB,0.0141,Faible,-48.68,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+6248-BSHKG,0.0139,Faible,-48.98,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+5666-MBJPT,0.0138,Faible,-48.75,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+1926-QUZNN,0.0137,Faible,-48.75,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+7998-WNZEM,0.0136,Faible,-46.04,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingMovies_Yes
+5803-NQJZO,0.0135,Faible,-46.71,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MultipleLines_Yes
+5296-BFCYD,0.0135,Faible,-49.02,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | TechSupport_Yes
+5334-AFQJB,0.0134,Faible,-48.79,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+1697-LYYYX,0.0132,Faible,-49.09,Ne pas contacter,0,n_protection_services | Contract_Two year | TechSupport_Yes
+8219-VYBVI,0.0131,Faible,-48.82,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+2805-AUFQN,0.0128,Faible,-49.09,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+4779-ZGICK,0.0127,Faible,-48.93,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+6374-AFWOX,0.0126,Faible,-47.01,Ne pas contacter,0,InternetService_No | DeviceProtection_Yes | Dependents_Yes
+2263-SFSQZ,0.0125,Faible,-48.87,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+8338-QIUNR,0.0124,Faible,-47.02,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MultipleLines_Yes
+0608-JDVEC,0.0124,Faible,-49.12,Ne pas contacter,0,n_protection_services | PaymentMethod_Electronic check | Dependents_Yes
+5181-OABFK,0.0123,Faible,-47.28,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | DeviceProtection_Yes
+2954-PIBKO,0.0123,Faible,-47.17,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MultipleLines_Yes
+4735-BJKOU,0.0122,Faible,-49.11,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+0732-OCQOC,0.0121,Faible,-48.91,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+1047-RNXZV,0.0119,Faible,-49.16,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+6365-HITVU,0.0118,Faible,-46.29,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+4018-PPNDW,0.0118,Faible,-48.98,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+3580-GICBM,0.0117,Faible,-48.98,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+3884-UEBXB,0.0117,Faible,-48.48,Ne pas contacter,0,PhoneService_Yes | InternetService_No | TechSupport_Yes
+4012-YCFAI,0.0116,Faible,-47.45,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | Dependents_Yes
+3967-VQOGC,0.0115,Faible,-48.97,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+5457-COLHT,0.0114,Faible,-46.68,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+8028-PNXHQ,0.0113,Faible,-49.02,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+6283-GITPX,0.0113,Faible,-46.87,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MonthlyCharges
+9588-YRFHY,0.0112,Faible,-49.2,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+3511-BFTJW,0.0112,Faible,-48.45,Ne pas contacter,0,PhoneService_Yes | InternetService_No | DeviceProtection_Yes
+9114-DPSIA,0.0112,Faible,-46.72,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingMovies_Yes
+4940-KHCWD,0.011,Faible,-48.51,Ne pas contacter,0,PhoneService_Yes | InternetService_No | Dependents_Yes
+3913-FCUUW,0.011,Faible,-47.2,Ne pas contacter,0,PaperlessBilling_Yes | InternetService_No | MultipleLines_Yes
+3071-MVJCD,0.011,Faible,-46.74,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+6080-LNESI,0.0109,Faible,-49.03,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+9430-NKQLY,0.0109,Faible,-49.01,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+0562-FGDCR,0.0109,Faible,-47.07,Ne pas contacter,0,InternetService_No | StreamingTV_Yes | MultipleLines_Yes
+3470-OBUET,0.0108,Faible,-47.11,Ne pas contacter,0,InternetService_No | StreamingTV_Yes | MultipleLines_Yes
+6292-TOSSS,0.0106,Faible,-49.05,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+0625-AFOHS,0.0106,Faible,-49.23,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+4299-OPXEJ,0.0106,Faible,-49.26,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+1820-DJFPH,0.0106,Faible,-49.08,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | MultipleLines_Yes
+4785-FCIFB,0.0106,Faible,-49.07,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+1716-LSAMB,0.0105,Faible,-47.93,Ne pas contacter,0,InternetService_No | PaymentMethod_Mailed check | Partner_Yes
+3200-MNQTF,0.0104,Faible,-47.36,Ne pas contacter,0,InternetService_No | MultipleLines_Yes | DeviceProtection_Yes
+6370-ZVHDV,0.0104,Faible,-49.05,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+3027-YNWZU,0.0103,Faible,-49.07,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+3970-XGJDU,0.0103,Faible,-49.29,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+7167-PCEYD,0.0103,Faible,-49.26,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+3429-IFLEM,0.0103,Faible,-47.14,Ne pas contacter,0,MonthlyCharges | InternetService_No | StreamingTV_Yes
+1705-GUHPV,0.0102,Faible,-49.11,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+5845-BZZIB,0.0102,Faible,-49.26,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+4312-KFRXN,0.0101,Faible,-49.07,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+1767-CJKBA,0.0101,Faible,-49.09,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+2632-TACXW,0.0101,Faible,-49.14,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+2696-RZVZW,0.0101,Faible,-49.09,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+3454-JFUBC,0.0101,Faible,-49.27,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+6288-CHQJB,0.01,Faible,-47.47,Ne pas contacter,0,InternetService_No | StreamingMovies_Yes | DeviceProtection_Yes
+6169-PPETC,0.01,Faible,-49.26,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+2169-RRLFW,0.01,Faible,-49.08,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+3836-FZSDJ,0.0098,Faible,-49.12,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+7606-BPHHN,0.0098,Faible,-49.3,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | Dependents_Yes
+3948-KXDUF,0.0097,Faible,-47.59,Ne pas contacter,0,InternetService_No | MultipleLines_Yes | DeviceProtection_Yes
+8735-SDUFN,0.0097,Faible,-49.16,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+6134-KWTBV,0.0097,Faible,-49.18,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | Dependents_Yes
+1709-EJDOX,0.0095,Faible,-49.32,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+2230-XTUWL,0.0094,Faible,-49.34,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+1862-QRWPE,0.0093,Faible,-49.31,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+4742-TXUEX,0.0091,Faible,-49.37,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+8532-UEFWH,0.009,Faible,-49.16,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+3088-FVYWK,0.0087,Faible,-49.2,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+3795-GWTRD,0.0086,Faible,-47.67,Ne pas contacter,0,InternetService_No | StreamingTV_Yes | MonthlyCharges
+7729-XBTWX,0.0085,Faible,-49.4,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | TechSupport_Yes
+9286-BHDQG,0.0085,Faible,-48.61,Ne pas contacter,0,PhoneService_Yes | InternetService_No | DeviceProtection_Yes
+0463-TXOAK,0.0085,Faible,-49.22,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+9755-JHNMN,0.0084,Faible,-47.97,Ne pas contacter,0,InternetService_No | DeviceProtection_Yes | Dependents_Yes
+9135-HSWOC,0.0083,Faible,-49.41,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | TechSupport_Yes
+8701-DGLVH,0.0081,Faible,-49.4,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+6625-FLENO,0.0081,Faible,-49.39,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+4821-WQOYN,0.008,Faible,-49.42,Ne pas contacter,0,n_protection_services | PaperlessBilling_Yes | TechSupport_Yes
+0174-QRVVY,0.0079,Faible,-49.28,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+4698-KVLLG,0.0078,Faible,-49.45,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+9372-TXXPS,0.0078,Faible,-48.32,Ne pas contacter,0,InternetService_No | Dependents_Yes | PaymentMethod_Mailed check
+6349-JDHQP,0.0078,Faible,-49.44,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+1555-HAPSU,0.0077,Faible,-49.34,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+8224-KDLKN,0.0077,Faible,-49.31,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+0480-KYJVA,0.0077,Faible,-49.33,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+9814-AOUDH,0.0077,Faible,-49.46,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+9365-CSLBQ,0.0077,Faible,-49.33,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+2525-GVKQU,0.0077,Faible,-49.43,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+1945-XISKS,0.0076,Faible,-49.46,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+6345-FZOQH,0.0076,Faible,-49.46,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+0402-OAMEN,0.0076,Faible,-49.33,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+3646-ITDGM,0.0075,Faible,-49.47,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+6848-HJTXY,0.0075,Faible,-49.47,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+8165-ZJRNM,0.0075,Faible,-49.35,Ne pas contacter,0,n_protection_services | MultipleLines_Yes | TechSupport_Yes
+8347-GDTMP,0.0075,Faible,-49.47,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+8590-YFFQO,0.0075,Faible,-48.24,Ne pas contacter,0,InternetService_No | DeviceProtection_Yes | Dependents_Yes
+2616-FLVQC,0.0075,Faible,-49.47,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+7602-DBTOU,0.0074,Faible,-49.47,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+7114-AEOZE,0.0074,Faible,-49.47,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+1927-QEWMY,0.0073,Faible,-49.46,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+0397-ZXWQF,0.0072,Faible,-49.47,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+3910-MRQOY,0.0071,Faible,-49.5,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+7515-LODFU,0.0071,Faible,-49.48,Ne pas contacter,0,n_protection_services | Dependents_Yes | TechSupport_Yes
+1574-DYCWE,0.0066,Faible,-49.53,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+6340-DACFT,0.0065,Faible,-49.52,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+0040-HALCW,0.0064,Faible,-49.53,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+8129-GMVGI,0.0064,Faible,-49.54,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+7717-BICXI,0.0063,Faible,-49.53,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+8711-LOBKY,0.0063,Faible,-49.55,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+2346-LOCWC,0.0062,Faible,-49.54,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+2075-PUEPR,0.0062,Faible,-49.57,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+2236-HILPA,0.0061,Faible,-49.55,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+1830-IPXVJ,0.0061,Faible,-49.57,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+3400-ESFUW,0.0061,Faible,-48.73,Ne pas contacter,1,InternetService_No | PaymentMethod_Mailed check | n_addon_services
+7157-SMCFK,0.006,Faible,-49.57,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+0962-CQPWQ,0.006,Faible,-49.56,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+3563-SVYLG,0.0059,Faible,-48.68,Ne pas contacter,0,InternetService_No | DeviceProtection_Yes | n_addon_services
+8619-IJNDK,0.0059,Faible,-48.65,Ne pas contacter,0,InternetService_No | DeviceProtection_Yes | n_addon_services
+1403-GYAFU,0.0058,Faible,-49.58,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+3642-BYHDO,0.0057,Faible,-49.59,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+4086-WITJG,0.0057,Faible,-49.6,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+0794-YVSGE,0.0057,Faible,-49.58,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+2984-RGEYA,0.0057,Faible,-49.59,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+9537-JALFH,0.0057,Faible,-49.59,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+4277-BWBML,0.0056,Faible,-49.59,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes
+1166-PQLGG,0.0056,Faible,-49.6,Ne pas contacter,0,n_protection_services | TechSupport_Yes | OnlineSecurity_Yes

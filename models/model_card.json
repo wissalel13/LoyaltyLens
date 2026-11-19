@@ -1,0 +1,44 @@
+{
+  "modèle": "Régression logistique",
+  "réglages": {
+    "C": 0.1
+  },
+  "matrice_utilisée": "scaled",
+  "nombre_de_variables": 32,
+  "validation_croisée": {
+    "PR-AUC": 0.6590173370161128,
+    "ROC-AUC": 0.8462838599471056
+  },
+  "test": {
+    "PR-AUC": 0.6358357272358114,
+    "ROC-AUC": 0.8408096308352064,
+    "Brier": 0.13868674171591402
+  },
+  "taux_de_churn": {
+    "train": 0.2653532126375577,
+    "test": 0.2654364797728886
+  },
+  "hypothèses_business": {
+    "COST_CONTACT": 50.0,
+    "SUCCESS_RATE": 0.3,
+    "HORIZON_MONTHS": 12,
+    "note": "Hypothèses de travail, à remplacer par les valeurs réelles de l'entreprise"
+  },
+  "niveaux_de_risque": {
+    "Élevé": ">= 0.5",
+    "Moyen": "0.25 à 0.5",
+    "Faible": "< 0.25"
+  },
+  "variables_exclues_du_modèle": [
+    "customerID",
+    "gender",
+    "SeniorCitizen",
+    "TotalCharges"
+  ],
+  "explicabilité": "SHAP",
+  "versions": {
+    "scikit-learn": "1.9.1",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4"
+  }
+}
